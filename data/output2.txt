@@ -1,0 +1,2922 @@
+Câu hỏi 1
+Trong các nguy cơ mất an toàn thông tin thì Giả mạo thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+
+Câu hỏi 3
+Trong các nguy cơ mất an toàn thông tin thì Ngăn chặn thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+
+Câu hỏi 4
+Khả năng chia sẻ kết nối internet được tích hợp sẵn trong các Hệ điều hành
+a. Windows Server 2000, 2003 
+b. Windows 98SE, Windows XP, Windows 7, Windows Server 2003/2008 
+c. Windows Server 2003/2008 
+d. Windows 95/98/2000/XP/2003 
+
+Câu hỏi 5
+Nên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?
+a. Full access 
+b. No access 
+c. Read access 
+d. Write access 
+
+Câu hỏi 6
+Khi xây dựng kết nối VPN kiểu Remote-Access, người dùng A không thể dial vào VPN Server mặc dù đã thiết lập đúng các thông số cho VPN Connection và khai báo chính xác Username và password. Các người dùng khác vẫn kết nối VPN từ nhà vào Văn phòng Công ty được bình thường. Nguyên nhân lỗi có thể là:
+a. Hệ Điều hành trên máy người dùng A không hỗ trợ kết nối VPN 
+b. Tài khoản của người dùng A không được cấp phép đăng nhập từ xa 
+c. Hệ Điều hành trên máy người dùng A và Hệ Điều hành trên máy VPN Server không tương thích nhau. 
+d. IP address trên máy người dùng A không cùng Net.ID với IP address trong Văn phòng Công ty 
+
+Câu hỏi 7
+Ta muốn cài đặt một máy chủ cung cấp các dịch vụ Web đến các máy trạm thông qua Internet. Ta không muốn để lộ mạng bên trong để tránh rủi ro. Phương pháp nào để thực hiện điều này ?
+a. Cài đặt máy chủ trong mạng Intranet 
+b. Cài đặt máy chủ trong một VLAN 
+c. Cài đặt máy chủ trong mạng Extranet 
+d. Cài đặt máy chủ trong một DMZ 
+
+Câu hỏi 8
+Bạn là người quản trị mạng cho một công ty, công ty bạn muốn triển khai 2 NetID khác nhau cho hai phòng ban, bạn làm thế nào để trên mạng không bị trùng IP và tiết kiệm công sức nhất cho người quản trị?
+a. Sử dụng IP tĩnh trên mỗi nhánh mạng 
+b. Một nhánh mạng dựng DHCP Server nhánh còn lại sử dụng IP tĩnh 
+c. Cấu hình DHCP Server và một DHCP relay Agent. 
+d. Cài đặt và cấu hình DHCP Server trên mỗi nhánh mạng 
+
+Câu hỏi 9
+Trong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạng
+a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+
+Câu hỏi 10
+Phương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?
+a. Kerberos 
+b. Phần mềm antivirus 
+c. Xác thực người dùng 
+d. Firewall 
+
+Câu hỏi 11
+Khi thiếu tính toàn vẹn trong một hệ thống bảo mật, …
+sẽ xảy ra
+a. Database hacking 
+b. Data deletion 
+c. Data tampering 
+d. Data leakage 
+
+Câu hỏi 12
+“An ninh mạng” là gì?
+a. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+d. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+
+Câu hỏi 13
+Các mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+a. password83@ 
+b. password@83 
+c. pas@sword83 
+d. pass@word83 
+
+Câu hỏi 14
+Loại virus nào có thể lây nhiễm vào các tệp dữ liệu?
+a. File Virus 
+b. Toolkit 
+c. Mailware 
+d. Macro Virus 
+
+Câu hỏi 15
+IP Security Policy được Windows cấu hình với 3 Policies mặc định. Trong đó Policy có tên “Secure Server (Request Security)” mang ý nghĩa:
+a. Máy tính cũng gởi yêu cầu sử dụng IPSec. Nếu máy kia không đáp ứng thì kết thúc phiên giao tiếp. 
+b. Máy tính cũng gởi yêu cầu sử dụng IPSec. Nếu máy kia không đáp ứng thì vẫn có thể giao tiếp bình thường (không có IPSec). 
+c. Nếu một máy khác yêu cầu dùng IPSec để giao tiếp, máy tính sẽ tự kích hoạt IPSec. 
+d. Nếu một máy khác yêu cầu dùng IPSec để giao tiếp, máy sẽ từ chối - không giao tiếp. 
+
+Câu hỏi 16
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Ban Cơ yếu Chính phủ 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+c. Bộ Công an 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+
+Câu hỏi 17
+Máy Windows Server 2003 có 2 thiết bị giao tiếp mạng: một giao tiếp Internet và một giao tiếp với các Client. Người quản trị triển khai NAT trên Windows Server này để chia sẽ kết nối internet. Sau khi triển khai xong thì Server giao tiếp internet tốt, còn các Client thì không giao tiếp được mặc dùng đã khai báo đúng và đủ các thông số IP cho Clients. Nguyên nhân dẫn đến tình trạng trên:
+a. Do Windows Server dùng phiên bản Standard, không hỗ trợ SecureNAT 
+b. Khi triển khai NAT, người quản trị đã chọn sai thiết bị giao tiếp internet. 
+c. Do Hệ Điều hành trên Client không hỗ trợ giao tiếp internet qua NAT Server 
+d. Do dịch vụ “Basic Firewall” ngăn không cho các Client giao tiếp internet 
+
+Câu hỏi 18
+Các giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? a
+a. IPSec 
+b. TCP/IP 
+c. IPX 
+d. SSL 
+
+Câu hỏi 19
+Trong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+b. Thông tin được gửi từ nguồn giả mạo 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+
+Câu hỏi 20
+________ là  sự dự đoán của việc
+truy cập trái phép hoặc phá vỡ máy tính hoặc dữ liệu bằng các mạng không dây.
+a. Ứng
+dụng thiết bị có dây 
+b. Truy
+cập không dây 
+c. Bảo mật có dây 
+d. Bảo mật không dây 
+
+Câu hỏi 21
+Virus có thể lây nhiễm thông qua thiết bị nào?
+a. CD-Room 
+b. Thẻ nhớ 
+c. Tất cả 
+d. USB 
+
+Câu hỏi 22
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+b. Bộ Công an 
+c. Ban Cơ yếu Chính phủ 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+
+Câu hỏi 23
+Loại file nào có thể phát tán Virus ?
+a. .exe 
+b. .com 
+c. Virus có thể phát tán ở bất cứ file nào 
+d. .xyz 
+
+Câu hỏi 24
+____________ được chuyển giữa thiết bị của bạn
+và máy chủ được mã hóa an toàn nếu bạn đang sử dụng VPN
+a. Document files (tập tin tài liệu) 
+b. data (dữ liệu)  
+c. Virus 
+d. Music files (tập tin âm thanh) 
+
+Câu hỏi 25
+Các log file trên hệ thống của bạn phát hiện một nổ lực giành quyền truy cập đến một tài khoản đơn. Nổ lực này đã không thành công vào thời điểm đó. Theo kinh nghiệm của bạn thì loại tấn công thích hợp nhất là gì ?
+a. Tấn công đoán mật khẩu (Password Guessing) 
+b. Tấn công bằng sâu 
+c. Tấn công cửa sau 
+d. TCP/IP hijacking 
+
+Câu hỏi 26
+Vì sao cần bảo vệ thông tin máy tính?
+a. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+b. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+c. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+d. Tất cả các đáp án 
+
+Câu hỏi 27
+Giai đoạn đầu của hacking là gì?
+a. Duy trì truy cập 
+b. Dò tìm (Scanning) 
+c. Gaining truy cập 
+d. Trinh sát 
+
+Câu hỏi 28
+Luật An ninh mạng năm 2018 quy định về
+a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+d. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+
+Câu hỏi 29
+Khi kết thúc công việc trên máy tính xách tay và ra ngoài khoảng 1 tiếng vào buổi trưa ta nên làm gì trước khi ra ngoài ?
+a. Chắc chắn rằng máy tính xách tay của ta được bảo vệ trên bàn làm việc hay được cất, khóa an toàn 
+b. Log out khỏi máy tính xách tay 
+c. Shut down và đóng máy lại 
+d. Nói với đồng nghiệp để mắt đến máy tính xách tay 
+
+Câu hỏi 30
+Chữ ký số được sử dụng cho mục đích gì?
+a. Để kiểm tra định danh người gửi 
+b. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+c. Cung cấp chứng chỉ 
+d. Thu hồi một chứng chỉ 
+
+Câu hỏi 31
+Chứng nhận chứa (certificate) chứa thông tin?
+a. Tất cả đều đúng 
+b. Chữ ký 
+c. Thông tin thuật toán tạo mã khoá 
+d. Thuật toán tạo chữ ký 
+
+Câu hỏi 32
+Port mặc định của WorldClient (Mdaemon) là bao nhiêu?
+a. 3000 
+b. 4000 
+c. 1000 
+d. 2000 
+
+Câu hỏi 33
+Khi một user báo cáo rằng hệ thống của anh ta đã phát hiện một virus mới. Điều gì sau đây cần làm như là bước đầu tiên để xử lý tình huống này ?
+a. Disable tài khoản email của anh ta 
+b. Định dạng lại đĩa cứng 
+c. Kiểm tra lại tập tin diệt virus hiện hành 
+d. Cài đặt lại hệ điều hành 
+
+Câu hỏi 34
+Quyền truy cập nào cho phép ta lưu giữ một tập tin?
+a. Ghi 
+b. Sao chép 
+c. Backup 
+d. Đọc 
+
+Câu hỏi 35
+Hãy chọn phát biểu đúng trong các phát biểu sau:
+a. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+b. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+c. Máy tính không kết nối Internet thì không bị nhiễm virus 
+d. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+
+Câu hỏi 36
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?
+a. 2 
+b. 7 
+c. 4 
+d. Nhiều 
+
+Câu hỏi 37
+Thiết bị nào lưu trữ thông tin về đích đến trong mạng ?
+a. Firewall 
+b. Hub 
+c. Router 
+d. Modem 
+
+Câu hỏi 38
+Để public một trang web ra ngoài Internet, ta thường thực hiện như thế nào? Select one or more:a. Nat port trên Router 
+b. Routing trên ISA (TMG) 
+c. Nat port trên ISA (TMG) 
+d. Routing trên Router 
+
+Câu hỏi 39
+Nếu muốn xem một tài liệu "bảo mật" được mã hóa trên hệ mật bất đối xứng do người khác gởi đến , bạn phải sử dụng khóa nào để giải mật tài liệu?
+a. Khoá công khai của bên gửi 
+b. Khoá công khai của bạn 
+c. Khoá cá nhân của bên gửi 
+d. Khoá cá nhân của bạn 
+
+Câu hỏi 40
+.....…
+của thông tin có nghĩa là chỉ những người dùng được ủy quyền mới có khả năng
+truy cập thông tin.
+a. Availability 
+b. Integrity 
+c. Confidentiality 
+d. Non-repudiation 
+
+Câu hỏi 41
+Phát biểu nào sau đây là đúng với Bitlocker Drive Encryption?
+a. Là phần mềm hóa công khai 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+
+Câu hỏi 42
+Các biểu hiện của một hệ thống mất tính toàn vẹn?
+a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Thay đổi giao diện trang chủ của một website. 
+c. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+d. Tất cả đáp án đã cho đều đúng 
+
+Câu hỏi 43
+Qui trình xác định vị trí và các thông tin mạng được gọi là gì ?
+a. Quét 
+b. Liệt kê 
+c. Thiết bị làm nhiễu 
+d. In dấu chân 
+
+Câu hỏi 44
+Kỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:
+a. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+b. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+c. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+d. Khó bị các chương trình Anti Virus phát hiện 
+
+Câu hỏi 45
+Công nghệ nào sau đây dựa vào thuộc tính vật lý của user để xác thực ?
+a. Các mã thông báo 
+b. Xác thực lẫn nhau 
+c. Sinh trắc học 
+d. Thẻ thông minh 
+
+Câu hỏi 46
+Các kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toàn
+a. 3 
+b. 4 
+c. 6 
+d. 5 
+
+Câu hỏi 47
+Mạng nào sau đây không phải là một vùng bảo mật ?
+a. Internet 
+b. Intranet 
+c. NAT 
+d. Extranet 
+
+Câu hỏi 48
+Audit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằm
+a. Xác thực đó là ai 
+b. Ai đã làm gì 
+c. Tất cả đều đúng 
+d. Cấp quyền ai có thể làm gì 
+
+Câu hỏi 49
+Phương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?
+a. Firewall 
+b. Xác thực người dùng 
+c. Kerberos 
+d. Phần mềm antivirus 
+
+Câu hỏi 50
+Giao thức nào được thiết kế để cung cấp bảo mật cho mạng không dây tương đương với việc bảo mật của một mạng diện rộng ? 
+a. WAP 
+b. WEP 
+c. IR 
+d. WTLS 
+
+Câu hỏi 51
+Trong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?
+a. Dự phòng nguồn điện của máy phát điện 
+b. UPS 
+c. Ổn áp 
+d. Thanh nguồn điện 
+
+Câu hỏi 52
+System Hacking là một phương thức tấn công kiểu:
+a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+c. Điều khiển máy tính nạn nhân từ xa 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+
+Câu hỏi 53
+Giao thức nào sau đây tuy không phải là một giao thức đường hầm nhưng nó sử dụng các giao thức đường hầm để bảo mật trên mạng?
+a. IPSec 
+b. L2TP 
+c. PPTP 
+d. L2F 
+
+Câu hỏi 54
+Nếu ta muốn xác thực chữ ký của một người khác, khóa nào phải được sử dụng?
+a. Khóa công khai của bạn 
+b. Khoá công khai của người cần xác thực 
+c. Khoá cá nhân của người cần xác thực 
+d. Khoá cá nhân của bạn 
+
+Câu hỏi 55
+Một máy tính kết nối internet bằng công nghệ ADSL. Khi kết nối internet thành công, ISP sẽ cấp một địa chỉ IP. Trong trường hợp không có một sự can thiệp nào khác, hãy chọn phát biểu chính xác:
+a. Địa chỉ IP đó được cấp cho card mạng giao tiếp intenet trên máy người dùng. 
+b. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-11 trên ADSL modem 
+c. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-45 trên ADSL modem 
+d. Địa chỉ IP đó được cấp cho máy tính của người dùng 
+
+Câu hỏi 56
+Để đảm bảo an toàn thông tin, bằng cách
+a. sử dụng phương pháp mã hóa 
+b. kết hợp các biện pháp. 
+c. sử dụng tường lửa 
+d. phân quyền truy cập thông tin 
+
+Câu hỏi 57
+Tổ đặc trách thông báo rằng họ đã nhận một cuộc gọi khẩn cấp từ phó chủ tịch đêm qua yêu cầu logon vào ID và mật khẩu của ông ta. Đây là loại tấn công gì ?
+a. Tấn công chuyển tiếp 
+b. Trojan 
+c. Giả mạo 
+d. Social engineering (Khai thác giao tiếp) 
+
+Câu hỏi 58
+Phương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?
+a. VPN 
+b. SSH 
+c. SSL 
+d. IPSec 
+
+Câu hỏi 59
+Kỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:
+a. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gởi ra ngoài 
+b. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+c. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+d. Khó bị các chương trình Anti Virus phát hiện 
+
+Câu hỏi 60
+Qui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon?
+a. Đa yếu tố ( multi-factor) 
+b. Thẻ thông minh 
+c. Kerberos 
+d. Sinh trắc học 
+
+Câu hỏi 61
+Các phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?
+a. Cựu hacker mũ xám 
+b. Hacker hiểm độc 
+c. Chuyên gia bảo mật 
+d. Cựu hacker mũ đen 
+
+Câu hỏi 62
+Mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+a. 25101998 
+b. password83 
+c. !$aLtNb83 
+d. reception 
+
+Câu hỏi 63
+Trojan là một phương thức tấn công kiểu:
+a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+d. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+
+Câu hỏi 64
+Thiết bị nào giám sát lưu lượng mạng theo cách thụ động ?
+a. Sniffer 
+b. IDS 
+c. Web browser 
+d. Firewall 
+
+Câu hỏi 65
+Các tập tin nào sau đây có khả năng chứa virus nhất ?
+a. bigpic.jpeg 
+b. note.txt 
+c. picture.gif.exe 
+d. database.dat 
+
+Câu hỏi 66
+Trojan là một phương thức tấn công kiểu:
+a. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+
+Câu hỏi 67
+Trường Đại học GTVT Tp.HCM dự tính triển khai kết nối VPN Site-to-Site giữa các Chi nhánh nhưng vẫn còn lo ngại về độ an toàn của dữ liệu khi truyền trên hạ tầng internet. Là người quản trị mạng tại trường, bạn chọn giải pháp nào dưới đây để khắc phục khó khăn trên?
+a. Yêu cầu nhà cung cấp dịch vụ internet (ISP) mã hóa các dữ liệu truyền bằng VPN từ UT.EDU.VN ra ngoài internet. 
+b. Sử dụng hệ thống mã hóa tập tin (Encrypt File System - EFS) có sẵn trong Windows đê mã hóa các tập tin trước khi chia sẻ qua VPN. 
+c. Đặt mật khẩu có độ phức tạp cao cho các Dial-In User 
+d. Sử dụng IPSec kết hợp với giao thức L2TP. 
+
+Câu hỏi 68
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?
+a. 7 
+b. 2 
+c. Nhiều 
+d. 4 
+
+Câu hỏi 69
+Một máy chủ trên mạng không chấp nhận các kết nối TCP nữa. Máy chủ thông báo rằng nó đã vượt quá giới hạn của phiên làm việc. Loại tấn công nào có thể đang xảy ra ?
+a. Tấn công smurf 
+b. TCP/IP hijacking 
+c. Tấn công TCP ACK (tấn công kiểu SYNACK) 
+d. Tấn công virus 
+
+Câu hỏi 70
+Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?
+a. Cập nhật bản vá lỗi 
+b. Sao lưu hệ thống 
+c. Cài lại HĐH 
+d. Cài phần mềm diệt Virus 
+
+Câu hỏi 71
+Các yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?
+a. 5 
+b. 3 
+c. 2 
+d. 4 
+
+Câu hỏi 72
+Tác hại của virus máy tính ?
+a. Phá hủy hoặc đánh cắp dữ liệu 
+b. Tất cả các phương án 
+c. Gây khó chịu cho người dùng 
+d. Tiêu tốn tài nguyên hệ thống. 
+
+Câu hỏi 73
+Phòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)
+a. Có thể hạn chế trong bằng cách lập trình 
+b. Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+c. Chỉ có thể dùng tường lửa 
+d. Hiện nay đã có cách phòng chống hiệu quả 
+
+Câu hỏi 74
+Qui trình phá vỡ một phiên làm việc IM được gọi là gì ?
+a. Truyền rộng rãi 
+b. Phản ứng với rắc rối 
+c. Thiết bị làm nhiễu 
+d. Khảo sát định vị 
+
+Câu hỏi 75
+.....… có nghĩa là bảo vệ dữ liệu khỏi sự sửa đổi của người
+dùng không xác định.
+a. Confidentiality 
+b. Integrity 
+c. Non-repudiation 
+d. Authentication 
+
+Câu hỏi 76
+Bạn là người quản trị mạng tại trung tâm CNTT. Máy Server ISA1 cung cấp giao tiếp Internet cho tất cả máy trong mạng. Để đảm bảo an toàn cho tất cả Client, Bạn quyết định triển khai giao tiếp internet cho Client kiểu Web Client Proxy. Triển khai vấn đề này, ISA1 phải được cấu hình như là một Proxy Server, bằng cách:
+a. Trên máy ISA1, trong nhánh “Networks”: Properties cho “Internal” vào tab “Web Proxy” và chọn “Enable Web Proxy Client”. 
+b. Trên máy ISA1, trong nhánh “Networks”: Properties cho “External” vào tab “Web Proxy” và chọn “Enable Proxy”. 
+c. Trên máy ISA1, trong nhánh “Networks”: Properties chọn “Local Host” vào tab “Web Proxy” và chọn “Enable Proxy”. 
+d. Trên máy ISA1, trong “Internet Options” vào tab “Connection” chọn nút “LAN Settings” và chọn “Use a Proxy Server”. 
+
+Câu hỏi 77
+Cache là một vùng đĩa cứng dùng lưu trữ các dữ liệu đi ngang qua ISA Server. Sau khi cài đặt ISA Server 2006, nó sẽ:
+a. Tự động cache tất cả dữ liệu đi ngang qua nó ngay sau khi cài đặt ISA 
+b. Chỉ tự động cache sau khi người dùng định nghĩa Cache trên ISA Server (Define cache) 
+c. Chỉ tự động cache sau khi người dùng Enable Cache trên ISA Server 
+d. Chỉ tự động cache sau khi người dùng định nghĩa và Enable Cache trên ISA Server 
+
+Câu hỏi 78
+Trường Đại học GTVT Tp.HCM, có hệ thống mạng Workgroup với 100 PC dữ liệu hiện tại của công ty được lưu trữ phân tán tại mỗi PC và mỗi khi chia sẽ dữ liệu thì cần phải cấu hình lại mỗi PC. Nhu cầu của công ty muốn quản lý hệ thống mạng tập trung với mọi thông tin, dữ liệu, tài nguyên, ...Bạn sẽ làm gì để có thể triển khai hệ thống quản lý mạng LAN? 
+a. Chọn một Server chuyên dụng và cài đặt Windows Server 2012 
+b. Triển khai TMG Firewall 
+c. Cài đặt dịch vụ Active Directory cho Server 
+d. Cấu hình dịch vụ Web services 
+e. Gia nhập hệ thống Client vào domain 
+
+Câu hỏi 79
+Phần mềm nào trong số đó không phải là phần mềm AntiVirus?
+a. Avast 
+b. Beast 
+c. Panda 
+d. Avira 
+
+Câu hỏi 80
+Hệ thống nào sau đây có thể được sử dụng để giám sát một mạng đối với các hành động trái phép ?
+a. N-IDS (Network-based IDS) 
+b. Network sniffer 
+c. H-IDS (Host-based IDS) 
+d. Network sniffer VÀ N-IDS (Network-based IDS) 
+
+Câu hỏi 81
+Để thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:
+a. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+b. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+c. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+d. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+
+Câu hỏi 82
+Một máy tính kết nối internet bằng công nghệ ADSL. Khi kết nối internet thành công, ISP sẽ cấp một địa chỉ IP. Trong trường hợp không có một sự can thiệp nào khác, hãy chọn phát biểu chính xác:
+a. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-11 trên ADSL modem 
+b. Địa chỉ IP đó được cấp cho máy tính của người dùng 
+c. Địa chỉ IP đó được cấp cho card mạng giao tiếp intenet trên máy người dùng. 
+d. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-45 trên ADSL modem 
+
+Câu hỏi 83
+Virus không thể ẩn mình vào đâu ?
+a. CMOS 
+b. BIOS 
+c. Process 
+d. DLL 
+
+Câu hỏi 84
+Một chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một …….
+a. Armored virus 
+b. Polymorphic virus 
+c. Sâu 
+d. Trojan Horse 
+
+Câu hỏi 85
+Qui trình quyết định giá trị của thông tin hay thiết bị trong một tổ chức được gọi là gì?
+a. Đánh giá rủi ro 
+b. Đánh giá tài nguyên thông tin 
+c. Quét các điểm yếu 
+d. Nhận dạng chuỗi 
+
+Câu hỏi 86
+Trường Đại học GTVT Tp.HCM có nhiều chi nhánh. Các nhân viên kế toán ở các Chi nhánh muốn chia sẻ những thông tin kế toán với nhau. Giải pháp nào sau đây là khả thi hiện nay?
+a. Sử dụng dây mạng để nối tất cả các Chi nhánh lại với nhau. 
+b. Mỗi Chi nhánh thuê bao một Leased Line riêng. Routing các Leased Line lại với nhau. 
+c. Sử dụng Remote Dial-up để quay số nối mạng từ Chi nhánh A qua B mỗi khi có nhu cầu truy cập thông tin chia sẻ. 
+d. Với đường truyền Internet có sẵn, triển khai hệ thống VPN cho các Chi nhánh. 
+
+Câu hỏi 87
+Phá hoại thụ động mang đặc trưng gì?
+a. Chặn bắt và phân tích dòng số liệu 
+b. Chặn bắt hoặc giám sát thông tin 
+c. Chặn bắt và khám phá nội dung thông tin 
+d. Chặn bắt và thay đổi thông tin 
+
+Câu hỏi 88
+Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?
+a. Extranet 
+b. Internet 
+c. VPN 
+d. VLAN 
+
+Câu hỏi 89
+Các phương pháp sinh trắc học nào sau đây được coi là an toàn nhất ?
+a. Phân tích chữ ký 
+b. Lấy dấu bàn tay 
+c. Quét tiếng nói 
+d. Không quan trọng 
+
+Câu hỏi 90
+Khi xây dựng kết nối VPN kiểu Remote-Access, người dùng A không thể dial vào VPN Server mặc dù đã thiết lập đúng các thông số cho VPN Connection và khai báo chính xác Username và password. Các người dùng khác vẫn kết nối VPN từ nhà vào Văn phòng Công ty được bình thường. Nguyên nhân lỗi có thể là:
+a. Hệ Điều hành trên máy người dùng A và Hệ Điều hành trên máy VPN Server không tương thích nhau. 
+b. Tài khoản của người dùng A không được cấp phép đăng nhập từ xa 
+c. IP address trên máy người dùng A không cùng Net.ID với IP address trong Văn phòng Công ty 
+d. Hệ Điều hành trên máy người dùng A không hỗ trợ kết nối VPN 
+
+Câu hỏi 91
+Trường Đại học GTVT Tp.HCM dự tính triển khai kết nối VPN Site-to-Site giữa các Chi nhánh nhưng vẫn còn lo ngại về độ an toàn của dữ liệu khi truyền trên hạ tầng internet. Là người quản trị mạng tại trường, bạn chọn giải pháp nào dưới đây để khắc phục khó khăn trên?
+a. Đặt mật khẩu có độ phức tạp cao cho các Dial-In User. 
+b. Yêu cầu nhà cung cấp dịch vụ internet (ISP) mã hóa các dữ liệu truyền bằng VPN từ UT.EDU.VNra ngoài internet. 
+c. Sử dụng hệ thống mã hóa tập tin (Encrypt File System - EFS) có sẵn trong Windows đê mã hóa các tập tin trước khi chia sẻ qua VPN. 
+d. Sử dụng IPSec kết hợp với giao thức L2TP. 
+
+Câu hỏi 92
+Một IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?
+a. Trojan Horse 
+b. Ipsec 
+c. Tràn IP 
+d. DDOS 
+
+Câu hỏi 93
+Máy ISA Server có 2 card giao tiếp mạng
+•	External Adapter có IP address: 192.168.1.2 và Defautl Gateway là: 192.168.1.1
+•	Internal Adapter có IP address: 172.16.1.2 và Defautl Gateway là: 172.16.1.1
+Sau khi cài đặt ISA Server thì người dùng báo rằng họ không thể truy cập các Web site trên internet mặc dù bạn đã lập một Access Rule cho phép Internal truy cập internet. Bạn làm thế nào để giải quyết sự cố trên:
+a. Cấu hình lại Default Gateway của 2 card Internal và External là 192.168.1.1 
+b. Bổ sung thêm một Access rule cho phép HTTP trafic đi từ Internal đến External 
+c. Bỏ trống Default Gateway trên Internal Adapter 
+d. Tạo Network Set cho mỗi Sub net của 2 giao tiếp mạng trên 
+
+Câu hỏi 94
+Sniffing là một phương thức tấn công kiểu:
+a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Điều khiển máy tính nạn nhân từ xa 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+
+Câu hỏi 95
+Khi ta lưu giữ một khóa cá nhân trên đĩa cứng cục bộ, làm thế nào để bảo đảm là nó được bảo mật ?
+a. Lưu trữ nó trong một thư mục tương tự như khóa công khai 
+b. Cần bảo vệ bằng mật khẩu 
+c. Lưu trữ bản sao trong bì thư 
+d. Lưu trữ dữ liệu sao lưu vào đĩa mềm 
+
+Câu hỏi 96
+Kỹ thuật nào được sử dụng để bảo đảm thông tin liên lạc qua một mạng không được bảo mật ?
+a. Telnet 
+b. VPN 
+c. SLIP 
+d. PPP 
+
+Câu hỏi 97
+Tính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?
+a. độ an toàn 
+b. độ sẵn sàng 
+c. độ chính xác 
+d. độ tin cậy 
+
+Câu hỏi 98
+Một user gọi điện đến cho ta (với tư cách là người quản lý) thông báo họ bị mất mật khẩu và cần truy cập ngay lập tức. Bạn nên làm gì ?
+a. Cung cấp truy cập ngay lập tức, và sau đó kiểm tra chứng cứ của họ. 
+b. Cho họ một mật khẩu riêng tạm thời 
+c. Tạo một login và mật khẩu tạm thời để họ sử dụng. 
+d. Xác minh định danh của họ trước khi cấp quyền truy cập 
+
+Câu hỏi 99
+Các phương pháp sinh trắc học nào sau đây được coi là an toàn nhất ?
+a. Không quan trọng 
+b. Lấy dấu bàn tay / Lấy dấu ngón tay 
+c. Quét tiếng nói 
+d. Phân tích chữ ký 
+
+Câu hỏi 100
+Mật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?
+a. D 
+b. I 
+c. A 
+d. C 
+
+Câu hỏi 101
+Áp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:
+a. Kerberos 
+b. Encapsulating Security Payload (ESP) 
+c. Certified Authentication (CA) 
+d. Internet Key Exchange (IKE) 
+
+Câu hỏi 102
+Bạn là người quản trị mạng tại trung tâm CNTT. Máy ISA1 được cài đặt ISA Server 2004. Bạn đã tạo một network Rule định nghĩa mối quan hệ NAT giữa Internal và External. bên trong Internal có một máy Windows Server 2003 trên SERVER1. Bạn cần điều khiển máy SERVER1 từ xa bằng Remote Desktop (RDP). Đồng thời, cũng cho phép một số người dùng Remote Desktop máy SERVER1 qua một port không theo chuẩn: 12345. Bạn phải làm thế nào trên ISA1? Select one or more:a. Định nghĩa một Protocol mới có tên RDP-x, sử dụng TCP port 12345 làm inbound 
+b. Định nghĩa một Protocol mới có tên RDP-x, sử dụng TCP port 12345 làm outbound 
+c. Tạo một Server publishing rule sử dụng RDP-x Protocol 
+d. Tạo một Access Rule sử dụng RDP-x Protocol 
+
+Câu hỏi 103
+Mô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?
+a. Nhiều 
+b. 7 
+c. 4 
+d. 2 
+
+Câu hỏi 104
+CIH là gì ?
+a. Là một chủng virus máy tính 
+b. Tên gọi khác của virus Chernobyl 
+c. Khóa học An  toàn mạng máy tính 
+d. Là trojan giúp hacker phân tích dữ liệu 
+
+Câu hỏi 105
+Một đêm làm việc khuya và bạn phát hiện rằng ổ cứng của bạn hoạt động rất tích cực mặc dù bạn không thực hiện bất kỳ thao tác nào trên máy tính. Bạn nghi ngờ điều gì?
+a. Hệ thống của bạn đang chịu tác động của tấn công DoS 
+b. Khả năng ổ đĩa ngừng hoạt động sắp xảy ra 
+c. Một virus đang phát tán rộng trong hệ thống 
+d. Tấn công TCP/IP hijacking đang cố gắng thực hiện 
+
+Câu hỏi 106
+Bạn nhận được một email từ Microsoft, trong đó có một file đính kèm. Trong thư nói rằng có một số lỗi đã được phát hiện và sửa chữa , bạn phải chạy chương trình được đính kèm trong thư để sửa những lỗi đó. Trong trường hợp này bạn sẽ làm gì để bảo đảm an toàn?
+a. Mở chương trình và chạy nó ngay. Chương trình đó thật sự an toàn vì nó được gửi từ Microsoft 
+b. Lưu chương trình đó lại và dùng chương trình diệt virus để quét, nếu không phát hiện thấy virus, sẽ chạy chương trình đó để sửa lỗi 
+c. Xoá email đó ngay. Mocrosoft và các nhà cung cấp không bao giờ gửi chương trình sửa lỗi qua email. 
+d. Không có giải pháp nào diệt virus 
+
+Câu hỏi 107
+Mục nào không là tấn công chủ động
+a. Tấn công replay 
+b. Tấn công từ chối dịch vụ 
+c. Tấn công nghe lén 
+d. Tấn công giả mạo (masquerade) 
+
+Câu hỏi 108
+Trong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạng
+a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+
+Câu hỏi 109
+Trình duyệt nào sau đây được sử dụng cho mục
+đích bảo vệ sự riêng tư?
+a. Tor 
+b. Firefox  
+c. Chrome  
+d. Safari 
+
+Câu hỏi 110
+Loại khoá mật mã nào sau đây dễ bị phá nhất ?
+a. 256 bit 
+b. 40 bit 
+c. EEC 
+d. RSA 
+
+Câu hỏi 111
+Để ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?
+a. Sâu DoS đã lây nhiễm cục bộ 
+b. Máy đích bị virus 
+c. Tường lửa chưa hiệu quả 
+d. Hệ thống mạng bị lỗi 
+
+Câu hỏi 112
+System Hacking là một phương thức tấn công kiểu:
+a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+c. Điều khiển máy tính nạn nhân từ xa 
+d. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+
+Câu hỏi 113
+Phương pháp xác thực nào sử dụng một KDC để thực hiện xác thực ?
+a. Kerberos 
+b. Sinh trắc học 
+c. Thẻ thông minh 
+d. Chap 
+
+Câu hỏi 114
+Loại tấn công nào sử dụng nhiều hơn một máy tính để tấn công nạn nhân ?
+a. DDoS 
+b. Sâu 
+c. DoS 
+d. Tấn công UDP 
+
+Câu hỏi 115
+Trường Đại học GTVT Tp.HCM có nhiều chi nhánh. Các nhân viên kế toán ở các Chi nhánh muốn chia sẻ những thông tin kế toán với nhau. Giải pháp nào sau đây là khả thi hiện nay?
+a. Sử dụng Remote Desktop hoặc dùng Teamview để quay số nối mạng từ Chi nhánh A qua B mỗi khi có nhu cầu truy cập thông tin chia sẻ. 
+b. Với đường truyền Internet có sẵn, triển khai hệ thống VPN cho các Chi nhánh. 
+c. Mỗi Chi nhánh thuê bao một Leased Line riêng. Routing các Leased Line lại với nhau. 
+d. Sử dụng dây mạng để nối tất cả các Chi nhánh lại với nhau. 
+
+Câu hỏi 116
+Bạn là người quản trị mạng tại trung tâm UT.EDU.VN. Máy Server TMG1 đặt tại CN Bình Thạnh, máy TMG2 đặt tại CN Vũng Tàu. Bạn đang triển khai kết nối VPN kiểu Site-to-Site giữa 2 Chi nhánh với giao thức L2TP/IPSec và dùng phương thức chứng thực Pre-shared Key. Bạn mở “Routing and Remote Access” và nhập Pre-shared Key vào trong hộp thoại Properties của RRAS Server. Kết nối Site-to-Site thành công. Bạn khởi động lại TMG Server và thử kết nối lại thì thất bại. Bạn sẽ giải quyết vấn đề này bằng cách:
+a. Nhập lại Pre-shared Key trên cả 2 TMG Server tại 2 Chi nhánh. Đảm bảo đúng từng ký tự, con số… 
+b. Cài đặt lại các Certificates trên TMG Server ở cả 2 Chi nhánh. Đồng thoại kích hoạt phương thức chứng thực EAP trên hộp thoại “Authenticaties” trong “TMG Management Console”. 
+c. Trên TMG Server ở cả 2 Chi nhánh: xóa bỏ Pre-shared Key trong “Routing and Remote Access” và nhập lại Pre-shared Key trong hộp thoại “VPN Properties” trong “TMG  Management Console” 
+d. Gở bỏ tất cả các Certificates trên TMG Server ở cả 2 Chi nhánh. 
+
+Câu hỏi 117
+Nổ lực tấn công để can thiệp vào một phiên liên lạc bằng việc thêm vào một máy tính giữa hai hệ thống được gọi là một …….?
+a. Sâu 
+b. Tấn công cửa sau 
+c. Tấn công dạng "Man in the middle" 
+d. TCP/IP hijacking 
+
+Câu hỏi 118
+Chiều dài tối thiểu mặc định của mật khẩu là ?
+a. 8 ký tự 
+b. 3 đến 5 ký tự 
+c. 12 đến 15 ký tự 
+d. Tùy trường hợp 
+
+Câu hỏi 119
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?
+a. Hạn chế thời gian 
+b. Disable tài khoản không dùng đến 
+c. Ngày hết hạn tài khoản 
+d. Giới hạn số lần logon 
+
+Câu hỏi 120
+Điều nào sau đây là điểm yếu của IP ?
+a. Tấn công dạng "Man in the middle" 
+b. Tấn công chuyển tiếp 
+c. Giả mạo IP 
+d. Mã nguồn độc hại 
+
+Câu hỏi 1
+Phòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)
+a. Có thể hạn chế trong bằng cách lập trình 
+b. Hiện nay đã có cách phòng chống hiệu quả 
+c. Chỉ có thể dùng tường lửa 
+d. Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+
+Câu hỏi 2
+Sniffing là một phương thức tấn công kiểu:
+a. Điều khiển máy tính nạn nhân từ xa 
+b. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+c. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+d. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+
+Câu hỏi 3
+Virus có thể lây nhiễm thông qua thiết bị nào?
+A. USB 
+B. Tất cả 
+C. CD-Room 
+D. Thẻ nhớ 
+
+Câu hỏi 4
+Trong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn giả mạo 
+
+Câu hỏi 5
+Phương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?
+IPSec 
+SSL 
+SSH 
+VPN 
+
+Câu hỏi 6
+Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?
+a. VLAN 
+b. VPN 
+c. Internet 
+d. Extranet 
+
+Câu hỏi 7
+Phương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?
+a. SSL 
+b. SSH 
+c. IPSec 
+d. VPN 
+
+Câu hỏi 8
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?
+a. Nhiều 
+b. 4 
+c. 7 
+d. 2 
+
+Câu hỏi 9
+Phương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?
+a. Kerberos 
+b. Xác thực người dùng 
+c. Phần mềm antivirus 
+d. Firewall 
+
+Câu hỏi 10
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?
+a. Hạn chế thời gian 
+b. Giới hạn số lần logon 
+c. Ngày hết hạn tài khoản 
+d. Disable tài khoản không dùng đến 
+
+Câu hỏi 11
+X800 là một
+Dịch vụ an toàn 
+Là một tiêu chuẩn mã hóa 
+Là một tiêu chuẩn 
+Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+Cơ chế an toàn 
+
+Câu hỏi 12
+Phát biểu nào sau đây là đúng với Bitlocker Drive Encryption?
+a.  
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+d. Là phần mềm hóa công khai 
+
+Câu hỏi 13
+Luật An ninh mạng năm 2018 quy định về
+a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+b. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+d. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+
+Câu hỏi 14
+Mô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?
+a. 2 
+b. 7 
+c. Nhiều 
+d. 4 
+
+Câu hỏi 15
+Vì sao cần bảo vệ thông tin máy tính?
+a. Tất cả các đáp án 
+b. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+c. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+d. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+
+Câu hỏi 16
+Nên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?
+Read access 
+Write access 
+Full access 
+No access 
+
+Câu hỏi 17
+Các yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?
+a. 4 
+b. 2 
+c. 3 
+d. 5 
+
+Câu hỏi 18
+Luật An ninh mạng được công bố ngày tháng năm nào?
+a. 25/06/2018 
+b. 12/06/2018 
+c. 01/01/2018 
+d. 01/01/2019 
+
+Câu hỏi 19
+Các biểu hiện của một hệ thống mất tính toàn vẹn?
+a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Tất cả đáp án đã cho đều đúng 
+c. Thay đổi giao diện trang chủ của một website. 
+d. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+
+Câu hỏi 20
+Trong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạng
+a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+
+Câu hỏi 21
+Chiều dài tối thiểu mặc định của mật khẩu là ?
+a. Tùy trường hợp 
+b. 3 đến 5 ký tự 
+c. 8 ký tự 
+d. 12 đến 15 ký tự 
+
+Câu hỏi 22
+System Hacking là một phương thức tấn công kiểu:
+a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Điều khiển máy tính nạn nhân từ xa 
+
+Câu hỏi 23
+Qui trình xác định topology của mạng được gọi là gì ?
+a. Thiết bị làm nhiễu 
+b. Quét mạng 
+c. In dấu chân 
+d. Liệt kê 
+
+Câu hỏi 24
+Virus không thể ẩn mình vào đâu ?
+A. BIOS 
+B. Process 
+C. CMOS 
+D. DLL 
+
+Câu hỏi 25
+Chiều dài tối thiểu mặc định của mật khẩu là ?
+Tùy trường hợp 
+3 đến 5 ký tự 
+8 ký tự 
+12 đến 15 ký tự 
+
+Câu hỏi 27
+Trong các loại  tấn công RSA được lưu ý thì không có dạng
+Tấn công brute force 
+Tấn công bản rõ 
+Tấn công tính toán thời gian 
+Tấn công toán học 
+
+Câu hỏi 29
+Các kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toàn
+a. 5 
+b. 3 
+c. 4 
+d. 6 
+
+Câu hỏi 30
+CIH là gì ?
+A. Là một chủng virus máy tính 
+B. Là trojan giúp hacker phân tích dữ liệu 
+C. Khóa học An  toàn mạng máy tính 
+D. Tên gọi khác của virus Chernobyl 
+
+Câu hỏi 31
+Các kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toàn
+a. 4 
+b. 5 
+c. 3 
+d. 6 
+
+Câu hỏi 32
+Để
+tìm bản rõ người thám mã sử dụng
+a. Sử dụng phương pháp bài toán ngược 
+b. Sử dụng khóa 
+c. Sử dụng phần mềm, công cụ hack 
+d. Kết hợp nhiều cách thức khác nhau 
+
+Câu hỏi 33
+Tính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?
+a. độ tin cậy 
+b. độ sẵn sàng 
+c. độ an toàn 
+d. độ chính xác 
+
+Câu hỏi 34
+Mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+a. reception 
+b. 25101998 
+c. password83 
+d. !$aLtNb83 
+
+Câu hỏi 35
+Trong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?
+a. Ổn áp 
+b. Thanh nguồn điện 
+c. UPS 
+d. Dự phòng nguồn điện của máy phát điện 
+
+Câu hỏi 36
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?
+Disable tài khoản không dùng đến 
+Ngày hết hạn tài khoản 
+Giới hạn số lần logon 
+Hạn chế thời gian 
+
+Câu hỏi 37
+Loại khoá mật mã nào sau đây dễ bị phá nhất ?
+40 bit 
+256 bit 
+RSA 
+EEC 
+
+Câu hỏi 38
+Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?
+a. Cập nhật bản vá lỗi 
+b. Sao lưu hệ thống 
+c. Cài lại HĐH 
+d. Cài phần mềm diệt Virus 
+
+Câu hỏi 39
+Tính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?
+a. độ sẵn sàng 
+b. độ an toàn 
+c. độ chính xác 
+d. độ tin cậy 
+
+Câu hỏi 40
+Hãy chọn phát biểu đúng trong các phát biểu sau:
+A. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+B. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+C. Máy tính không kết nối Internet thì không bị nhiễm virus 
+D. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+
+Câu hỏi 41
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Bộ Công an 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+c. Ban Cơ yếu Chính phủ 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+
+Câu hỏi 42
+Các biểu hiện của một hệ thống mất tính toàn vẹn?
+a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+c. Tất cả đáp án đã cho đều đúng 
+d. Thay đổi giao diện trang chủ của một website. 
+
+Câu hỏi 43
+Phát biểu nào sau đây là đúng với Bitlocker Drive Encryption?
+a. Là phần mềm hóa công khai 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+
+Câu hỏi 44
+Các phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?
+a. Hacker hiểm độc 
+b. Cựu hacker mũ đen 
+c. Chuyên gia bảo mật 
+d. Cựu hacker mũ xám 
+
+Câu hỏi 45
+Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?
+a. Extranet 
+b. VPN 
+c. Internet 
+d. VLAN 
+
+Câu hỏi 46
+Khi kết thúc công việc trên máy tính xách tay và ra ngoài khoảng 1 tiếng vào buổi trưa ta nên làm gì trước khi ra ngoài ?
+a. Chắc chắn rằng máy tính xách tay của ta được bảo vệ trên bàn làm việc hay được cất, khóa an toàn 
+b. Nói với đồng nghiệp để mắt đến máy tính xách tay 
+c. Shut down và đóng máy lại 
+d. Log out khỏi máy tính xách tay 
+
+Câu hỏi 47
+Trong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn giả mạo 
+
+Câu hỏi 48
+Vì sao cần bảo vệ thông tin máy tính?
+A. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+B. Tất cả các đáp án 
+C. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+D. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+
+Câu hỏi 49
+Kỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:
+a. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+b. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+c. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+d. Khó bị các chương trình Anti Virus phát hiện 
+
+Câu hỏi 50
+Luật An ninh mạng được thông qua ngày tháng năm nào?
+a. 25/06/2018 
+b. 01/01/2019 
+c. 01/01/2018 
+d. 12/06/2018 
+
+Câu hỏi 52
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?
+a. 7 
+b. 2 
+c. Nhiều 
+d. 4 
+
+Câu hỏi 53
+Phần mềm nào trong số đó không phải là phần mềm AntiVirus?
+a. Beast 
+b. Avast 
+c. Avira 
+d. Panda 
+
+Câu hỏi 54
+Mô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?
+a. Nhiều 
+b. 2 
+c. 4 
+d. 7 
+
+Câu hỏi 55
+Khi được hỏi về các mối đe dọa cho công ty từ phía các hacker. Loại thông tin nào sau đây sẽ giúp ích nhiều nhất ?
+a. Các điểm yếu 
+b. Nhận dạng mối đe dọa 
+c. Xác minh tài sản sở hữu 
+d. Đánh giá rủi ro 
+
+Câu hỏi 56
+Chứng nhận chứa (certificate) chứa thông tin?
+a. Tất cả đều đúng 
+b. Thông tin thuật toán tạo mã khoá 
+c. Thuật toán tạo chữ ký 
+d. Chữ ký 
+
+Câu hỏi 58
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?
+a. 2 
+b. 7 
+c. Nhiều 
+d. 4 
+
+Câu hỏi 59
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Ban Cơ yếu Chính phủ 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+d. Bộ Công an 
+
+Câu hỏi 60
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?
+a. 2 
+b. Nhiều 
+c. 7 
+d. 4 
+
+Câu hỏi 61
+Sniffing là một phương thức tấn công kiểu:
+A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+
+Câu hỏi 62
+Để thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:
+a. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+b. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+c. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+d. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+
+Câu hỏi 63
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Ban Cơ yếu Chính phủ 
+b. Bộ Công an 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+
+Câu hỏi 64
+Loại file nào có thể phát tán Virus ?
+a. .com 
+b. Virus có thể phát tán ở bất cứ file nào 
+c. .exe 
+d. .xyz 
+
+Câu hỏi 65
+Virus có thể lây nhiễm thông qua thiết bị nào?
+a. Thẻ nhớ 
+b. USB 
+c. CD-Room 
+d. Tất cả 
+
+Câu hỏi 66
+Mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+reception 
+25101998 
+!$aLtNb83 
+password83 
+
+Câu hỏi 67
+Luật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?
+a. 01/01/2019 
+b. 12/06/2018 
+c. 01/01/2018 
+d. 25/06/2018 
+
+Câu hỏi 68
+Trojan là một phương thức tấn công kiểu:
+a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+c. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+
+Câu hỏi 69
+Áp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:
+a. Internet Key Exchange (IKE) 
+b. Encapsulating Security Payload (ESP) 
+c. Certified Authentication (CA) 
+d. Kerberos 
+
+Câu hỏi 70
+System Hacking là một phương thức tấn công kiểu:
+A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+
+Câu hỏi 71
+Trong sơ đồ kí số thành phần nào đặc trưng xác
+nhận cho một người?
+a. Khóa bí mật 
+b. bản mã 
+c. Khóa công khai 
+d. chữ ký số 
+
+Câu hỏi 72
+Loại khoá mật mã nào sau đây dễ bị phá nhất ?
+a. EEC 
+b. RSA 
+c. 40 bit 
+d. 256 bit 
+
+Câu hỏi 73
+Quyền truy cập nào cho phép ta lưu giữ một tập tin?
+a. Đọc 
+b. Backup 
+c. Sao chép 
+d. Ghi 
+
+Câu hỏi 74
+Audit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằm
+Tất cả đều đúng 
+Cấp quyền ai có thể làm gì 
+Xác thực đó là ai 
+Ai đã làm gì 
+
+Câu hỏi 75
+Hệ thống nào chủ động thực hiện việc giám sát mạng, phân tích và có thể thực hiện các bước phòng ngừa , bảo vệ mạng ?
+a. Router 
+b. IDS 
+c. Sniffer 
+d. Switch 
+
+Câu hỏi 76
+Để ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?
+a. Máy đích bị virus 
+b. Tường lửa chưa hiệu quả 
+c. Hệ thống mạng bị lỗi 
+d. Sâu DoS đã lây nhiễm cục bộ 
+
+Câu hỏi 77
+Bộ lọc gói thực hiện chức năng nào ?
+a. Loại trừ sự xung đột trong mạng 
+b. Ngăn chặn các gói trái phép đi vào từ mạng bên ngoài 
+c. Cho phép tất cả các gói đi vào mạng 
+d. Cho phép tất cả các gói rời mạng 
+
+Câu hỏi 78
+Áp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:
+a. Certified Authentication (CA) 
+b. Encapsulating Security Payload (ESP) 
+c. Kerberos 
+d. Internet Key Exchange (IKE) 
+
+Câu hỏi 79
+Luật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?
+a. 01/01/2018 
+b. 01/01/2019 
+c. 25/06/2018 
+d. 12/06/2018 
+
+Câu hỏi 80
+X800 là một
+a. Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+b. Là một tiêu chuẩn 
+c. Dịch vụ an toàn 
+d. Là một tiêu chuẩn mã hóa 
+e. Cơ chế an toàn 
+
+Câu hỏi 82
+Luật An ninh mạng được thông qua ngày tháng năm nào?
+a. 01/01/2019 
+b. 12/06/2018 
+c. 25/06/2018 
+d. 01/01/2018 
+
+Câu hỏi 83
+Để ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?
+Sâu DoS đã lây nhiễm cục bộ 
+Tường lửa chưa hiệu quả 
+Hệ thống mạng bị lỗi 
+Máy đích bị virus 
+
+Câu hỏi 85
+CIH là gì ?
+a. Là một chủng virus máy tính 
+b. Là trojan giúp hacker phân tích dữ liệu 
+c. Khóa học An  toàn mạng máy tính 
+d. Tên gọi khác của virus Chernobyl 
+
+Câu hỏi 86
+Phần mềm nào trong số đó không phải là phần mềm AntiVirus?
+A. Panda 
+B. Avira 
+C. Avast 
+D. Beast 
+
+Câu hỏi 87
+Luật An ninh mạng năm 2018 quy định về
+a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+d. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+
+Câu hỏi 88
+Các giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? a
+a. IPX 
+b. IPSec 
+c. TCP/IP 
+d. SSL 
+
+Câu hỏi 89
+Yếu tố nào sau đây được coi là hữu ích nhất trong việc kiểm soát truy cập khi bị tấn công từ bên ngoài ?
+a. Đăng nhập hệ thống ( System logs) 
+b. Kerberos 
+c. Sinh trắc học 
+d. Phần mềm antivirus 
+
+Câu hỏi 90
+Kỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:
+A. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+B. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+C. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+D. Khó bị các chương trình Anti Virus phát hiện 
+
+Câu hỏi 91
+SSL thực hiện các nhiệm vụ ?
+a. Mã hóa dữ liệu web 
+b. Bảo vệ thông tin trao đổi qua Website. 
+c. Xác thực server, Client và mã hóa các kết nối. 
+d. Xác thực Server và Client 
+
+Câu hỏi 92
+Trong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn giả mạo 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+
+Câu hỏi 93
+Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật được gọi là gì ?
+a. Extranet 
+b. VLAN 
+c. Tunelling 
+d. Internet 
+
+Câu hỏi 94
+Các tập tin nào sau đây có khả năng chứa virus nhất ?
+a. bigpic.jpeg 
+b. note.txt 
+c. database.dat 
+d. picture.gif.exe 
+
+Câu hỏi 95
+Phương thức thông dụng để chia sẻ một kết nối internet cho nhiều máy khác trong mạng là:
+a. NAT (Network Address Translation) 
+b. RAS (Remote Access Service) 
+c. ICS (Internet Connection Sharring) 
+d. ROUTE (Routing Service) 
+
+Câu hỏi 96
+Phương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?
+a. Xác thực người dùng 
+b. Phần mềm antivirus 
+c. Firewall 
+d. Kerberos 
+
+Câu hỏi 97
+Một trong hai cách tiếp cận tấn công mã đối xứng
+a. Birthdy Paradox 
+b. Tấn công tìm bản rõ 
+c. Tấn công tìm khóa 
+d. Brute Force Attack 
+
+Câu hỏi 98
+Trojan là một phương thức tấn công kiểu:
+A. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+B. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+
+Câu hỏi 99
+Giai
+đoạn đầu của hacking là gì?
+a. Duy
+trì truy cập 
+b. Trinh sát 
+c. Dò tìm (Scanning) 
+d. Gaining truy
+cập 
+
+Câu hỏi 100
+Loại tấn công nào làm việc truy cập của user đến các tài nguyên mạng bị từ chối ?
+a. Logic Bomb (bomb ngập lụt đường truyền) 
+b. Social engineering (Khai thác giao tiếp) 
+c. DoS 
+d. Sâu 
+
+Câu hỏi 101
+Trong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?
+a. Ổn áp 
+b. Dự phòng nguồn điện của máy phát điện 
+c. UPS 
+d. Thanh nguồn điện 
+
+Câu hỏi 102
+Loại virus nào có thể lây nhiễm vào các tệp dữ liệu?
+a. Macro Virus 
+b. File Virus 
+c. Mailware 
+d. Toolkit 
+
+Câu hỏi 103
+Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?
+Cập nhật bản vá lỗi 
+Cài phần mềm diệt Virus 
+Cài lại HĐH 
+Sao lưu hệ thống 
+
+Câu hỏi 105
+Loại virus nào có thể lây nhiễm vào các tệp dữ liệu?
+A. Toolkit 
+B. Mailware 
+C. File Virus 
+D. Macro Virus 
+
+Câu hỏi 106
+Mã cổ điển là mã
+hoán vị 
+có hai khoá là khoá 
+thay thế 
+đối xứng 
+
+Câu hỏi 107
+Audit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằm
+a. Xác thực đó là ai 
+b. Ai đã làm gì 
+c. Cấp quyền ai có thể làm gì 
+d. Tất cả đều đúng 
+
+Câu hỏi 108
+Các tập tin nào sau đây có khả năng chứa virus nhất ?
+note.txt 
+bigpic.jpeg 
+database.dat 
+picture.gif.exe 
+
+Câu hỏi 109
+Loại file nào có thể phát tán Virus ?
+A. .xyz 
+B. .exe 
+C. Virus có thể phát tán ở bất cứ file nào 
+D. .com 
+
+Câu hỏi 110
+Phá hoại thụ động mang đặc trưng gì?
+a. Chặn bắt và khám phá nội dung thông tin 
+b. Chặn bắt và phân tích dòng số liệu 
+c. Chặn bắt và thay đổi thông tin 
+d. Chặn bắt hoặc giám sát thông tin 
+
+Câu hỏi 111
+Các giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? a
+SSL 
+TCP/IP 
+IPX 
+IPSec 
+
+Câu hỏi 112
+Phòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)
+Hiện nay đã có cách phòng chống hiệu quả 
+Chỉ có thể dùng tường lửa 
+Có thể hạn chế trong bằng cách lập trình 
+Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+
+Câu hỏi 113
+Trong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?
+a. UPS 
+b. Ổn áp 
+c. Dự phòng nguồn điện của máy phát điện 
+d. Thanh nguồn điện 
+
+Câu hỏi 114
+Mục nào không là tấn công chủ động
+A. Tấn công giả mạo (masquerade) 
+B. Tấn công nghe lén 
+C. Tấn công replay 
+D. Tấn công từ chối dịch vụ 
+
+Câu hỏi 115
+Giai đoạn đầu của hacking là gì?
+a. Gaining truy cập 
+b. Duy trì truy cập 
+c. Dò tìm (Scanning) 
+d. Trinh sát 
+
+Câu hỏi 116
+Mật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?
+a. I 
+b. C 
+c. A 
+d. D 
+
+Câu hỏi 117
+Hãy chọn phát biểu đúng trong các phát biểu sau:
+a. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+b. Máy tính không kết nối Internet thì không bị nhiễm virus 
+c. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+d. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+
+Câu hỏi 118
+“An ninh mạng” là gì?
+a. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+d. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+
+Câu hỏi 119
+Mật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?
+a. A 
+b. C 
+c. I 
+d. D 
+
+Câu hỏi 120
+Phương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây ?
+a. Xác thực 
+b. Kiểm soát truy cập 
+c. Kiểm định 
+d. Bảo mật dữ liệu 
+
+Câu hỏi 101
+Trong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?
+a. Ổn áp 
+b. Dự phòng nguồn điện của máy phát điện 
+c. UPS 
+d. Thanh nguồn điện 
+
+Câu hỏi 102
+Loại virus nào có thể lây nhiễm vào các tệp dữ liệu?
+a. Macro Virus 
+b. File Virus 
+c. Mailware 
+d. Toolkit 
+
+Câu hỏi 103
+Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?
+Cập nhật bản vá lỗi 
+Cài phần mềm diệt Virus 
+Cài lại HĐH 
+Sao lưu hệ thống 
+
+Câu hỏi 105
+Loại virus nào có thể lây nhiễm vào các tệp dữ liệu?
+A. Toolkit 
+B. Mailware 
+C. File Virus 
+D. Macro Virus 
+
+Câu hỏi 106
+Mã cổ điển là mã
+hoán vị 
+có hai khoá là khoá 
+thay thế 
+đối xứng 
+
+Câu hỏi 107
+Audit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằm
+a. Xác thực đó là ai 
+b. Ai đã làm gì 
+c. Cấp quyền ai có thể làm gì 
+d. Tất cả đều đúng 
+
+Câu hỏi 108
+Các tập tin nào sau đây có khả năng chứa virus nhất ?
+note.txt 
+bigpic.jpeg 
+database.dat 
+picture.gif.exe 
+
+Câu hỏi 109
+Loại file nào có thể phát tán Virus ?
+A. .xyz 
+B. .exe 
+C. Virus có thể phát tán ở bất cứ file nào 
+D. .com 
+
+Câu hỏi 110
+Phá hoại thụ động mang đặc trưng gì?
+a. Chặn bắt và khám phá nội dung thông tin 
+b. Chặn bắt và phân tích dòng số liệu 
+c. Chặn bắt và thay đổi thông tin 
+d. Chặn bắt hoặc giám sát thông tin 
+
+Câu hỏi 111
+Các giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? a
+SSL 
+TCP/IP 
+IPX 
+IPSec 
+
+Câu hỏi 112
+Phòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)
+Hiện nay đã có cách phòng chống hiệu quả 
+Chỉ có thể dùng tường lửa 
+Có thể hạn chế trong bằng cách lập trình 
+Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+
+Câu hỏi 113
+Trong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?
+a. UPS 
+b. Ổn áp 
+c. Dự phòng nguồn điện của máy phát điện 
+d. Thanh nguồn điện 
+
+Câu hỏi 114
+Mục nào không là tấn công chủ động
+A. Tấn công giả mạo (masquerade) 
+B. Tấn công nghe lén 
+C. Tấn công replay 
+D. Tấn công từ chối dịch vụ 
+
+Câu hỏi 115
+Giai đoạn đầu của hacking là gì?
+a. Gaining truy cập 
+b. Duy trì truy cập 
+c. Dò tìm (Scanning) 
+d. Trinh sát 
+
+Câu hỏi 116
+Mật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?
+a. I 
+b. C 
+c. A 
+d. D 
+
+Câu hỏi 117
+Hãy chọn phát biểu đúng trong các phát biểu sau:
+a. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+b. Máy tính không kết nối Internet thì không bị nhiễm virus 
+c. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+d. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+
+Câu hỏi 118
+“An ninh mạng” là gì?
+a. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+d. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+
+Câu hỏi 119
+Mật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?
+a. A 
+b. C 
+c. I 
+d. D 
+
+Câu hỏi 120
+Phương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây ?
+a. Xác thực 
+b. Kiểm soát truy cập 
+c. Kiểm định 
+d. Bảo mật dữ liệu 
+
+Câu hỏi 121
+Để thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:
+A. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+B. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+C. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+D. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+
+Câu hỏi 122
+Tấn công smurf sử dụng giao thức nào để kiểm soát ?
+a. UDP 
+b. ICMP 
+c. IP 
+d. TCP 
+
+Câu hỏi 123
+Trong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?
+a. Thanh nguồn điện 
+b. Dự phòng nguồn điện của máy phát điện 
+c. Ổn áp 
+d. UPS 
+
+Câu hỏi 124
+Chữ ký số được sử dụng cho mục đích gì?
+a. Để kiểm tra định danh người gửi 
+b. Cung cấp chứng chỉ 
+c. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+d. Thu hồi một chứng chỉ 
+
+Câu hỏi 125
+Giao thức nào được sử dụng rộng rãi hiện nay như là một giao thức truyền tải đối với các kết nối quay số trên Internet ?
+a. L2TP 
+b. SLIP 
+c. PPP 
+d. PPTP 
+
+Câu hỏi 126
+RSA là giải thuật
+Tổ chức quản lý mã hóa 
+Mã hóa khóa bí mật 
+Mã khóa riêng 
+mã hóa khóa công khai 
+
+Câu hỏi 127
+Nên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?
+a. Full access 
+b. No access 
+c. Write access 
+d. Read access 
+
+Câu hỏi 128
+Trong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+
+Câu hỏi 129
+Một IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?
+Trojan Horse 
+Ipsec 
+DDOS 
+Tràn IP 
+
+Câu hỏi 130
+Mục nào không là tấn công chủ động
+a. Tấn công giả mạo (masquerade) 
+b. Tấn công replay 
+c. Tấn công nghe lén 
+d. Tấn công từ chối dịch vụ 
+
+Câu hỏi 131
+Virus không thể ẩn mình vào đâu ?
+a. Process 
+b. CMOS 
+c. DLL 
+d. BIOS 
+
+Câu hỏi 132
+“An ninh mạng” là gì?
+a. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+c. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+d. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+
+Câu hỏi 133
+Qui trình chiếm quyền truy cập đến tài nguyên mạng (đặc biệt như là các tập tin user và nhóm) được gọi là gì ?
+a. Liệt kê  
+b. Thiết bị làm nhiễu 
+c. In dấu chân 
+d. Quét 
+
+Câu hỏi 134
+Chữ ký số được sử dụng cho mục đích gì?
+a. Thu hồi một chứng chỉ 
+b. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+c. Để kiểm tra định danh người gửi 
+d. Cung cấp chứng chỉ 
+
+Câu hỏi 135
+Một IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?
+a. Trojan Horse 
+b. DDOS 
+c. Ipsec 
+d. Tràn IP 
+
+Câu hỏi 136
+Phá hoại thụ động mang đặc trưng gì?
+a. Chặn bắt và khám phá nội dung thông tin 
+b. Chặn bắt hoặc giám sát thông tin 
+c. Chặn bắt và phân tích dòng số liệu 
+d. Chặn bắt và thay đổi thông tin 
+
+Câu hỏi 137
+Phương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?
+a. Phần mềm antivirus 
+b. Firewall 
+c. Xác thực người dùng 
+d. Kerberos 
+
+Câu hỏi 138
+Tác hại của virus máy tính ?
+a. Tiêu tốn tài nguyên hệ thống. 
+b. Tất cả các phương án 
+c. Gây khó chịu cho người dùng 
+d. Phá hủy hoặc đánh cắp dữ liệu 
+
+Câu hỏi 139
+Tác hại của virus máy tính ?
+A. Tiêu tốn tài nguyên hệ thống. 
+B. Phá hủy hoặc đánh cắp dữ liệu 
+C. Tất cả các phương án 
+D. Gây khó chịu cho người dùng 
+
+Câu hỏi 140
+Các yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?
+A. 2 
+B. 3 
+C. 4 
+D. 5 
+
+Câu hỏi 1
+Các mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+a.  password@83 
+b.  pass@word83 
+c.  pas@sword83 
+d.  password83@ 
+
+Câu hỏi 2
+Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?
+a. Cài phần mềm diệt Virus 
+b. Sao lưu hệ thống 
+c. Cài lại HĐH 
+d. Cập nhật bản vá lỗi 
+
+Câu hỏi 3
+Phương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?
+a. Phần mềm antivirus 
+b. Kerberos 
+c. Firewall 
+d. Xác thực người dùng 
+
+Câu hỏi 4
+SSL thực hiện các nhiệm vụ ?
+a. Xác thực server, Client và mã hóa các kết nối. 
+b. Xác thực Server và Client 
+c. Mã hóa dữ liệu web 
+d. Bảo vệ thông tin trao đổi qua Website. 
+
+Câu hỏi 5
+Tấn công smurf sử dụng giao thức nào để kiểm soát ?
+a. IP 
+b. ICMP 
+c. TCP 
+d. UDP 
+
+Câu hỏi 7
+Để ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?
+Máy đích bị virus 
+Sâu DoS đã lây nhiễm cục bộ 
+Hệ thống mạng bị lỗi 
+Tường lửa chưa hiệu quả 
+
+Câu hỏi 8
+Loại file nào có thể phát tán Virus ?
+a. .exe 
+b. .xyz 
+c. .com 
+d. Virus có thể phát tán ở bất cứ file nào 
+
+Câu hỏi 9
+Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?
+a. VPN 
+b. VLAN 
+c. Internet 
+d. Extranet 
+
+Câu hỏi 10
+Trong sơ đồ kí số thành phần nào đặc trưng xác
+nhận cho một người?
+a. Khóa công khai 
+b. bản mã 
+c. chữ ký số 
+d. Khóa bí mật 
+
+Câu hỏi 11
+Qui trình chiếm quyền truy cập đến tài nguyên mạng (đặc biệt như là các tập tin user và nhóm) được gọi là gì ?
+a. Thiết bị làm nhiễu 
+b. Liệt kê  
+c. Quét 
+d. In dấu chân 
+
+Câu hỏi 12
+Tác hại của virus máy tính ?
+a. Tiêu tốn tài nguyên hệ thống. 
+b. Phá hủy hoặc đánh cắp dữ liệu 
+c. Gây khó chịu cho người dùng 
+d. Tất cả các phương án 
+
+Câu hỏi 13
+Để thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:
+A. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+B. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+C. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+D. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+
+Câu hỏi 14
+Các kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toàn
+a. 4 
+b. 5 
+c. 6 
+d. 3 
+
+Câu hỏi 15
+Luật An ninh mạng năm 2018 quy định về
+a. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+d. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+
+Câu hỏi 16
+Một trong hai cách tiếp cận tấn công mã đối xứng
+Tấn công tìm bản rõ 
+Tấn công tìm khóa 
+Brute Force Attack 
+Birthdy Paradox 
+
+Câu hỏi 17
+Chiều dài tối thiểu mặc định của mật khẩu là ?
+Tùy trường hợp 
+12 đến 15 ký tự 
+8 ký tự 
+3 đến 5 ký tự 
+
+Câu hỏi 18
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?
+Disable tài khoản không dùng đến 
+Ngày hết hạn tài khoản 
+Hạn chế thời gian 
+Giới hạn số lần logon 
+
+Câu hỏi 19
+Tính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?
+a. độ an toàn 
+b. độ chính xác 
+c. độ sẵn sàng 
+d. độ tin cậy 
+
+Câu hỏi 20
+Các phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?
+a. Cựu hacker mũ xám 
+b. Cựu hacker mũ đen 
+c. Chuyên gia bảo mật 
+d. Hacker hiểm độc 
+
+Câu hỏi 21
+X800 là một
+Dịch vụ an toàn 
+Cơ chế an toàn 
+Là một tiêu chuẩn 
+Là một tiêu chuẩn mã hóa 
+Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+
+Câu hỏi 22
+Virus có thể lây nhiễm thông qua thiết bị nào?
+a. USB 
+b. Tất cả 
+c. CD-Room 
+d. Thẻ nhớ 
+
+Câu hỏi 23
+Để ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?
+a. Tường lửa chưa hiệu quả 
+b. Sâu DoS đã lây nhiễm cục bộ 
+c. Máy đích bị virus 
+d. Hệ thống mạng bị lỗi 
+
+Câu hỏi 24
+Khi được hỏi về các mối đe dọa cho công ty từ phía các hacker. Loại thông tin nào sau đây sẽ giúp ích nhiều nhất ?
+a. Xác minh tài sản sở hữu 
+b. Đánh giá rủi ro 
+c. Các điểm yếu 
+d. Nhận dạng mối đe dọa 
+
+Câu hỏi 25
+Mô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?
+a. Nhiều 
+b. 4 
+c. 2 
+d. 7 
+
+Câu hỏi 26
+Sniffing là một phương thức tấn công kiểu:
+A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+
+Câu hỏi 27
+Bộ lọc gói thực hiện chức năng nào ?
+a. Ngăn chặn các gói trái phép đi vào từ mạng bên ngoài 
+b. Loại trừ sự xung đột trong mạng 
+c. Cho phép tất cả các gói đi vào mạng 
+d. Cho phép tất cả các gói rời mạng 
+
+Câu hỏi 28
+Mô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?
+a. 4 
+b. 7 
+c. 2 
+d. Nhiều 
+
+Câu hỏi 29
+Mục nào không là tấn công chủ động
+A. Tấn công replay 
+B. Tấn công giả mạo (masquerade) 
+C. Tấn công từ chối dịch vụ 
+D. Tấn công nghe lén 
+
+Câu hỏi 30
+Các yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?
+A. 2 
+B. 3 
+C. 4 
+D. 5 
+
+Câu hỏi 31
+Một IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?
+a. Ipsec 
+b. Trojan Horse 
+c. Tràn IP 
+d. DDOS 
+
+Câu hỏi 32
+Trojan là một phương thức tấn công kiểu:
+a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+
+Câu hỏi 33
+Audit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằm
+Tất cả đều đúng 
+Xác thực đó là ai 
+Ai đã làm gì 
+Cấp quyền ai có thể làm gì 
+
+Câu hỏi 34
+Trong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn giả mạo 
+
+Câu hỏi 35
+X800 là một
+a. Là một tiêu chuẩn 
+b. Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+c. Cơ chế an toàn 
+d. Là một tiêu chuẩn mã hóa 
+e. Dịch vụ an toàn 
+
+Câu hỏi 36
+Nên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?
+a. No access 
+b. Read access 
+c. Write access 
+d. Full access 
+
+Câu hỏi 37
+Giai đoạn đầu của hacking là gì?
+a. Duy trì truy cập 
+b. Trinh sát 
+c. Dò tìm (Scanning) 
+d. Gaining truy cập 
+
+Câu hỏi 38
+Phá hoại thụ động mang đặc trưng gì?
+a. Chặn bắt hoặc giám sát thông tin 
+b. Chặn bắt và khám phá nội dung thông tin 
+c. Chặn bắt và thay đổi thông tin 
+d. Chặn bắt và phân tích dòng số liệu 
+
+Câu hỏi 39
+Các tập tin nào sau đây có khả năng chứa virus nhất ?
+a. note.txt 
+b. database.dat 
+c. bigpic.jpeg 
+d. picture.gif.exe 
+
+Câu hỏi 40
+Loại khoá mật mã nào sau đây dễ bị phá nhất ?
+a. 256 bit 
+b. EEC 
+c. 40 bit 
+d. RSA 
+
+Câu hỏi 41
+Loại khoá mật mã nào sau đây dễ bị phá nhất ?
+40 bit 
+RSA 
+256 bit 
+EEC 
+
+Câu hỏi 42
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?
+a. 2 
+b. 4 
+c. Nhiều 
+d. 7 
+
+Câu hỏi 43
+Loại virus nào có thể lây nhiễm vào các tệp dữ liệu?
+a. Macro Virus 
+b. Mailware 
+c. File Virus 
+d. Toolkit 
+
+Câu hỏi 44
+Phòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)
+a. Hiện nay đã có cách phòng chống hiệu quả 
+b. Có thể hạn chế trong bằng cách lập trình 
+c. Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+d. Chỉ có thể dùng tường lửa 
+
+Câu hỏi 45
+Vì sao cần bảo vệ thông tin máy tính?
+a. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+b. Tất cả các đáp án 
+c. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+d. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+
+Câu hỏi 46
+Các biểu hiện của một hệ thống mất tính toàn vẹn?
+a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Tất cả đáp án đã cho đều đúng 
+c. Thay đổi giao diện trang chủ của một website. 
+d. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+
+Câu hỏi 47
+Các giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? a
+SSL 
+IPSec 
+IPX 
+TCP/IP 
+
+Câu hỏi 49
+Hãy chọn phát biểu đúng trong các phát biểu sau:
+A. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+B. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+C. Máy tính không kết nối Internet thì không bị nhiễm virus 
+D. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+
+Câu hỏi 50
+Tính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?
+a. độ chính xác 
+b. độ sẵn sàng 
+c. độ tin cậy 
+d. độ an toàn 
+
+Câu hỏi 51
+Giai
+đoạn đầu của hacking là gì?
+a. Trinh sát 
+b. Gaining truy
+cập 
+c. Duy
+trì truy cập 
+d. Dò tìm (Scanning) 
+
+Câu hỏi 52
+Phần mềm nào trong số đó không phải là phần mềm AntiVirus?
+A. Panda 
+B. Avira 
+C. Beast 
+D. Avast 
+
+Câu hỏi 53
+Kỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:
+a. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+b. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+c. Khó bị các chương trình Anti Virus phát hiện 
+d. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+
+Câu hỏi 54
+Trong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?
+a. UPS 
+b. Dự phòng nguồn điện của máy phát điện 
+c. Ổn áp 
+d. Thanh nguồn điện 
+
+Câu hỏi 55
+Chiều dài tối thiểu mặc định của mật khẩu là ?
+a. 12 đến 15 ký tự 
+b. 8 ký tự 
+c. Tùy trường hợp 
+d. 3 đến 5 ký tự 
+
+Câu hỏi 56
+Để
+tìm bản rõ người thám mã sử dụng
+a. Sử dụng khóa 
+b. Kết hợp nhiều cách thức khác nhau 
+c. Sử dụng phần mềm, công cụ hack 
+d. Sử dụng phương pháp bài toán ngược 
+
+Câu hỏi 57
+Để đảm bảo an toàn thông tin, bằng cách
+a. kết hợp các biện pháp. 
+b. sử dụng tường lửa 
+c. phân quyền truy cập thông tin 
+d. sử dụng phương pháp mã hóa 
+
+Câu hỏi 58
+Các biểu hiện của một hệ thống mất tính toàn vẹn?
+a. Tất cả đáp án đã cho đều đúng 
+b. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+c. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+d. Thay đổi giao diện trang chủ của một website. 
+
+Câu hỏi 59
+Cách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?
+Cài lại HĐH 
+Cập nhật bản vá lỗi 
+Cài phần mềm diệt Virus 
+Sao lưu hệ thống 
+
+Câu hỏi 60
+“An ninh mạng” là gì?
+a. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+c. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+d. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+
+Câu hỏi 61
+Phát biểu nào sau đây là đúng với Bitlocker Drive Encryption?
+a. Là phần mềm hóa công khai 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+
+Câu hỏi 62
+System Hacking là một phương thức tấn công kiểu:
+a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Điều khiển máy tính nạn nhân từ xa 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+
+Câu hỏi 63
+Mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+reception 
+25101998 
+!$aLtNb83 
+password83 
+
+Câu hỏi 64
+Mật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?
+a. I 
+b. C 
+c. A 
+d. D 
+
+Câu hỏi 65
+Luật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?
+a. 25/06/2018 
+b. 12/06/2018 
+c. 01/01/2018 
+d. 01/01/2019 
+
+Câu hỏi 66
+Mật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?
+a. D 
+b. A 
+c. I 
+d. C 
+
+Câu hỏi 67
+“An ninh mạng” là gì?
+a. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+b. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+d. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+
+Câu hỏi 68
+Virus không thể ẩn mình vào đâu ?
+a. DLL 
+b. CMOS 
+c. Process 
+d. BIOS 
+
+Câu hỏi 69
+Phòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)
+Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+Hiện nay đã có cách phòng chống hiệu quả 
+Chỉ có thể dùng tường lửa 
+Có thể hạn chế trong bằng cách lập trình 
+
+Câu hỏi 70
+Trong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn giả mạo 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+
+Câu hỏi 71
+Mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+a. reception 
+b. !$aLtNb83 
+c. 25101998 
+d. password83 
+
+Câu hỏi 72
+Trong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+
+Câu hỏi 73
+Phương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?
+a. SSL 
+b. SSH 
+c. IPSec 
+d. VPN 
+
+Câu hỏi 74
+Các
+phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?
+a. Cựu hacker mũ xám 
+b. Chuyên gia bảo mật 
+c. Hacker hiểm độc 
+d. Cựu hacker mũ đen 
+
+Câu hỏi 75
+Trong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạng
+a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+
+Câu hỏi 76
+Qui trình xác định topology của mạng được gọi là gì ?
+a. Thiết bị làm nhiễu 
+b. Liệt kê 
+c. In dấu chân 
+d. Quét mạng 
+
+Câu hỏi 77
+Hãy chọn phát biểu đúng trong các phát biểu sau:
+a. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+b. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+c. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+d. Máy tính không kết nối Internet thì không bị nhiễm virus 
+
+Câu hỏi 78
+Các yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?
+a. 5 
+b. 4 
+c. 2 
+d. 3 
+
+Câu hỏi 79
+Mục nào không là tấn công chủ động
+a. Tấn công giả mạo (masquerade) 
+b. Tấn công replay 
+c. Tấn công nghe lén 
+d. Tấn công từ chối dịch vụ 
+
+Câu hỏi 80
+Mã cổ điển là mã
+thay thế 
+hoán vị 
+đối xứng 
+có hai khoá là khoá 
+
+Câu hỏi 81
+System Hacking là một phương thức tấn công kiểu:
+A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+
+Câu hỏi 82
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+b. Bộ Công an 
+c. Ban Cơ yếu Chính phủ 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+
+Câu hỏi 83
+Giao thức nào được sử dụng rộng rãi hiện nay như là một giao thức truyền tải đối với các kết nối quay số trên Internet ?
+a. PPTP 
+b. SLIP 
+c. PPP 
+d. L2TP 
+
+Câu hỏi 84
+Các mật khẩu nào sau đây là khó phá nhất đối với một hacker ?
+a. password@83 
+b. pass@word83 
+c. password83@ 
+d. pas@sword83 
+
+Câu hỏi 85
+Phương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?
+a. Kerberos 
+b. Firewall 
+c. Phần mềm antivirus 
+d. Xác thực người dùng 
+
+Câu hỏi 86
+Sniffing là một phương thức tấn công kiểu:
+a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Điều khiển máy tính nạn nhân từ xa 
+c. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+d. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+
+Câu hỏi 87
+Luật An ninh mạng được công bố ngày tháng năm nào?
+a. 25/06/2018 
+b. 12/06/2018 
+c. 01/01/2019 
+d. 01/01/2018 
+
+Câu hỏi 88
+Chứng nhận chứa (certificate) chứa thông tin?
+Tất cả đều đúng 
+Thông tin thuật toán tạo mã khoá 
+Chữ ký 
+Thuật toán tạo chữ ký 
+
+Câu hỏi 89
+Phương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?
+VPN 
+IPSec 
+SSL 
+SSH 
+
+Câu hỏi 91
+Phần mềm nào trong số đó không phải là phần mềm AntiVirus?
+a. Beast 
+b. Avira 
+c. Avast 
+d. Panda 
+
+Câu hỏi 93
+Trong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+
+Câu hỏi 94
+Audit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằm
+a. Cấp quyền ai có thể làm gì 
+b. Xác thực đó là ai 
+c. Tất cả đều đúng 
+d. Ai đã làm gì 
+
+Câu hỏi 95
+Chữ ký số được sử dụng cho mục đích gì?
+a. Thu hồi một chứng chỉ 
+b. Để kiểm tra định danh người gửi 
+c. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+d. Cung cấp chứng chỉ 
+
+Câu hỏi 96
+Phát biểu nào sau đây là đúng với Bitlocker Drive Encryption?
+a. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+c.  
+d. Là phần mềm hóa công khai 
+
+Câu hỏi 97
+CIH là gì ?
+A. Khóa học An  toàn mạng máy tính 
+B. Là một chủng virus máy tính 
+C. Tên gọi khác của virus Chernobyl 
+D. Là trojan giúp hacker phân tích dữ liệu 
+
+Câu hỏi 98
+Trong các loại  tấn công RSA được lưu ý thì không có dạng
+Tấn công toán học 
+Tấn công tính toán thời gian 
+Tấn công brute force 
+Tấn công bản rõ 
+
+Câu hỏi 99
+Các tập tin nào sau đây có khả năng chứa virus nhất ?
+picture.gif.exe 
+database.dat 
+bigpic.jpeg 
+note.txt 
+
+Câu hỏi 100
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?
+a. Nhiều 
+b. 4 
+c. 7 
+d. 2 
+
+Câu hỏi 101
+Trong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?
+a. Dự phòng nguồn điện của máy phát điện 
+b. UPS 
+c. Thanh nguồn điện 
+d. Ổn áp 
+
+Câu hỏi 102
+Chứng nhận chứa (certificate) chứa thông tin?
+a. Thông tin thuật toán tạo mã khoá 
+b. Thuật toán tạo chữ ký 
+c. Chữ ký 
+d. Tất cả đều đúng 
+
+Câu hỏi 103
+Loại file nào có thể phát tán Virus ?
+A. .xyz 
+B. .exe 
+C. Virus có thể phát tán ở bất cứ file nào 
+D. .com 
+
+Câu hỏi 104
+Phá hoại thụ động mang đặc trưng gì?
+a. Chặn bắt và thay đổi thông tin 
+b. Chặn bắt và khám phá nội dung thông tin 
+c. Chặn bắt hoặc giám sát thông tin 
+d. Chặn bắt và phân tích dòng số liệu 
+
+Câu hỏi 105
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+b. Bộ Công an 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+d. Ban Cơ yếu Chính phủ 
+
+Câu hỏi 106
+Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?
+a. VPN 
+b. VLAN 
+c. Internet 
+d. Extranet 
+
+Câu hỏi 107
+Hệ thống nào chủ động thực hiện việc giám sát mạng, phân tích và có thể thực hiện các bước phòng ngừa , bảo vệ mạng ?
+a. Switch 
+b. Sniffer 
+c. Router 
+d. IDS 
+
+Câu hỏi 108
+Luật An ninh mạng được thông qua ngày tháng năm nào?
+a. 01/01/2019 
+b. 25/06/2018 
+c. 12/06/2018 
+d. 01/01/2018 
+
+Câu hỏi 109
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+c. Ban Cơ yếu Chính phủ 
+d. Bộ Công an 
+
+Câu hỏi 111
+Luật An ninh mạng được thông qua ngày tháng năm nào?
+a. 12/06/2018 
+b. 01/01/2019 
+c. 25/06/2018 
+d. 01/01/2018 
+
+Câu hỏi 112
+Nên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?
+Full access 
+Write access 
+Read access 
+No access 
+
+Câu hỏi 113
+Kỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:
+A. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+B. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+C. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+D. Khó bị các chương trình Anti Virus phát hiện 
+
+Câu hỏi 114
+Virus có thể lây nhiễm thông qua thiết bị nào?
+A. Thẻ nhớ 
+B. USB 
+C. Tất cả 
+D. CD-Room 
+
+Câu hỏi 115
+Chính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?
+a. Disable tài khoản không dùng đến 
+b. Hạn chế thời gian 
+c. Giới hạn số lần logon 
+d. Ngày hết hạn tài khoản 
+
+Câu hỏi 116
+Bạn là người quản trị mạng tại trung tâm CNTT & DL . Trung tâm CNTT&DL gồm một văn phòng chính và một văn phòng chi nhánh. Mạng của trung tâm gồm có 2 máy tính ISA Server 2006 tên là CNTT_ISA1 và CNTT_ISA2.  CNTT_ISA1 đặt tại văn phòng chính, CNTT_ISA2 đặt tại văn phòng chi nhánh.
+Hai văn phòng này kết nối lại với nhau bằng VPN site-to-site thông qua IPSec. Các user ở văn phòng chi nhánh thì báo cáo rằng họ có thể truy cập dữ liệu share ở văn phòng chính nhưng không thể truy cập Microsoft Outlook Web Access Web site. Bạn nên làm gì để cho các user ở văn phòng chi nhánh có thể truy cập được Microsoft Outlook Web Access Web site?
+a. Tạo một access rule để cho phép TCP port 80 outbound. 
+b. Thay đổi cấu hình IPSec trên CNTT_ISA1 và CNTT_ISA2 để sử dụng thuật toán MD5. 
+c. Sử dụng NAT giữa hai văn phòng. 
+d. Add một đia chỉ IP cho card mạng external trên CNTT_ISA2. 
+
+Câu hỏi 117
+Để thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:
+a. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+b. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+c. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+d. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+
+Câu hỏi 118
+Phương thức thông dụng để chia sẻ một kết nối internet cho nhiều máy khác trong mạng là:
+a. ICS (Internet Connection Sharring) 
+b. NAT (Network Address Translation) 
+c. ROUTE (Routing Service) 
+d. RAS (Remote Access Service) 
+
+Câu hỏi 119
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?
+a. 7 
+b. Nhiều 
+c. 2 
+d. 4 
+
+Câu hỏi 120
+Phương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?
+a. Firewall 
+b. Phần mềm antivirus 
+c. Xác thực người dùng 
+d. Kerberos 
+
+Câu hỏi 121
+Áp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:
+a. Kerberos 
+b. Internet Key Exchange (IKE) 
+c. Encapsulating Security Payload (ESP) 
+d. Certified Authentication (CA) 
+
+Câu hỏi 122
+Chữ ký số được sử dụng cho mục đích gì?
+a. Thu hồi một chứng chỉ 
+b. Cung cấp chứng chỉ 
+c. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+d. Để kiểm tra định danh người gửi 
+
+Câu hỏi 123
+Luật An ninh mạng do cơ quan nào chủ trì soạn thảo?
+a. Bộ Công an 
+b. Ban Cơ yếu Chính phủ 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+
+Câu hỏi 124
+Quyền truy cập nào cho phép ta lưu giữ một tập tin?
+a. Đọc 
+b. Ghi 
+c. Sao chép 
+d. Backup 
+
+Câu hỏi 125
+Khi kết thúc công việc trên máy tính xách tay và ra ngoài khoảng 1 tiếng vào buổi trưa ta nên làm gì trước khi ra ngoài ?
+a. Nói với đồng nghiệp để mắt đến máy tính xách tay 
+b. Log out khỏi máy tính xách tay 
+c. Chắc chắn rằng máy tính xách tay của ta được bảo vệ trên bàn làm việc hay được cất, khóa an toàn 
+d. Shut down và đóng máy lại 
+
+Câu hỏi 126
+RSA là giải thuật
+Mã hóa khóa bí mật 
+Tổ chức quản lý mã hóa 
+mã hóa khóa công khai 
+Mã khóa riêng 
+
+Câu hỏi 127
+Luật An ninh mạng năm 2018 quy định về
+a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+d. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+
+Câu hỏi 128
+Luật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?
+a. 01/01/2018 
+b. 01/01/2019 
+c. 25/06/2018 
+d. 12/06/2018 
+
+Câu hỏi 129
+Loại virus nào có thể lây nhiễm vào các tệp dữ liệu?
+A. Toolkit 
+B. Macro Virus 
+C. Mailware 
+D. File Virus 
+
+Câu hỏi 130
+Phương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?
+a. Kerberos 
+b. Firewall 
+c. Xác thực người dùng 
+d. Phần mềm antivirus 
+
+Câu hỏi 131
+Vì sao cần bảo vệ thông tin máy tính?
+A. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+B. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+C. Tất cả các đáp án 
+D. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+
+Câu hỏi 132
+Kỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật được gọi là gì ?
+a. Extranet 
+b. Internet 
+c. Tunelling 
+d. VLAN 
+
+Câu hỏi 133
+Virus không thể ẩn mình vào đâu ?
+A. DLL 
+B. CMOS 
+C. BIOS 
+D. Process 
+
+Câu hỏi 135
+CIH là gì ?
+a. Khóa học An  toàn mạng máy tính 
+b. Tên gọi khác của virus Chernobyl 
+c. Là trojan giúp hacker phân tích dữ liệu 
+d. Là một chủng virus máy tính 
+
+Câu hỏi 136
+Một trong hai cách tiếp cận tấn công mã đối xứng
+a. Tấn công tìm bản rõ 
+b. Birthdy Paradox 
+c. Brute Force Attack 
+d. Tấn công tìm khóa 
+
+Câu hỏi 137
+Phương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây ?
+a. Kiểm soát truy cập 
+b. Kiểm định 
+c. Xác thực 
+d. Bảo mật dữ liệu 
+
+Câu hỏi 138
+Yếu tố nào sau đây được coi là hữu ích nhất trong việc kiểm soát truy cập khi bị tấn công từ bên ngoài ?
+a. Đăng nhập hệ thống ( System logs) 
+b. Kerberos 
+c. Phần mềm antivirus 
+d. Sinh trắc học 
+
+Câu hỏi 139
+Các kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toàn
+a. 5 
+b. 6 
+c. 4 
+d. 3 
+
+Câu hỏi 141
+Một IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?
+Trojan Horse 
+DDOS 
+Tràn IP 
+Ipsec 
+
+Câu hỏi 142
+Áp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:
+a. Encapsulating Security Payload (ESP) 
+b. Kerberos 
+c. Certified Authentication (CA) 
+d. Internet Key Exchange (IKE) 
+
+Câu hỏi 143
+Trong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?
+a. UPS 
+b. Ổn áp 
+c. Thanh nguồn điện 
+d. Dự phòng nguồn điện của máy phát điện 
+
+Câu hỏi 144
+Mô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?
+a. 4 
+b. 7 
+c. 2 
+d. Nhiều 
+
+Câu hỏi 145
+Trong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?
+a. Dự phòng nguồn điện của máy phát điện 
+b. Thanh nguồn điện 
+c. Ổn áp 
+d. UPS 
+
+Câu hỏi 146
+Các giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? a
+a. IPSec 
+b. IPX 
+c. SSL 
+d. TCP/IP 
+
+Câu hỏi 147
+Tác hại của virus máy tính ?
+A. Tiêu tốn tài nguyên hệ thống. 
+B. Phá hủy hoặc đánh cắp dữ liệu 
+C. Tất cả các phương án 
+D. Gây khó chịu cho người dùng 
+
+Câu hỏi 148
+Loại tấn công nào làm việc truy cập của user đến các tài nguyên mạng bị từ chối ?
+a. Sâu 
+b. Logic Bomb (bomb ngập lụt đường truyền) 
+c. Social engineering (Khai thác giao tiếp) 
+d. DoS 
+
+Câu hỏi 149
+Trong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạng
+a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+
+Câu hỏi 150
+Trojan là một phương thức tấn công kiểu:
+A. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+B. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+

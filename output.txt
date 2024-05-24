@@ -1,0 +1,2592 @@
+Câu hỏi 1Câu trả lời đã được lưuĐạt điểm 1,0
+Xóa cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Giả mạo thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 2Câu trả lời đã được lưuĐạt điểm 1,0
+Xóa cờĐoạn văn câu hỏiIP Security Policy được Windows cấu hình với 3 Policies mặc định. Trong đó Policy có tên “Secure Server (Request Security)” mang ý nghĩa:Select one:a. Máy tính cũng gởi yêu cầu sử dụng IPSec. Nếu máy kia không đáp ứng thì kết thúc phiên giao tiếp. 
+b. Nếu một máy khác yêu cầu dùng IPSec để giao tiếp, máy tính sẽ tự kích hoạt IPSec. 
+c. Nếu một máy khác yêu cầu dùng IPSec để giao tiếp, máy sẽ từ chối - không giao tiếp. 
+d. Máy tính cũng gởi yêu cầu sử dụng IPSec. Nếu máy kia không đáp ứng thì vẫn có thể giao tiếp bình thường (không có IPSec). 
+Clear my choice
+Câu hỏi 3Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Ngăn chặn thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+Clear my choice
+Câu hỏi 4Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhả năng chia sẻ kết nối internet được tích hợp sẵn trong các Hệ điều hànhSelect one:a. Windows Server 2000, 2003 
+b. Windows 98SE, Windows XP, Windows 7, Windows Server 2003/2008 
+c. Windows Server 2003/2008 
+d. Windows 95/98/2000/XP/2003 
+Clear my choice
+Câu hỏi 5Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?Select one:a. Full access 
+b. No access 
+c. Read access 
+d. Write access 
+Clear my choice
+Câu hỏi 6Câu trả lời đã được lưuĐạt điểm 1,0
+Xóa cờĐoạn văn câu hỏiKhi xây dựng kết nối VPN kiểu Remote-Access, người dùng A không thể dial vào VPN Server mặc dù đã thiết lập đúng các thông số cho VPN Connection và khai báo chính xác Username và password. Các người dùng khác vẫn kết nối VPN từ nhà vào Văn phòng Công ty được bình thường. Nguyên nhân lỗi có thể là:Select one:a. Hệ Điều hành trên máy người dùng A không hỗ trợ kết nối VPN 
+b. Tài khoản của người dùng A không được cấp phép đăng nhập từ xa 
+c. Hệ Điều hành trên máy người dùng A và Hệ Điều hành trên máy VPN Server không tương thích nhau. 
+d. IP address trên máy người dùng A không cùng Net.ID với IP address trong Văn phòng Công ty 
+Clear my choice
+Câu hỏi 7Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTa muốn cài đặt một máy chủ cung cấp các dịch vụ Web đến các máy trạm thông qua Internet. Ta không muốn để lộ mạng bên trong để tránh rủi ro. Phương pháp nào để thực hiện điều này ?Select one:a. Cài đặt máy chủ trong mạng Intranet 
+b. Cài đặt máy chủ trong một VLAN 
+c. Cài đặt máy chủ trong mạng Extranet 
+d. Cài đặt máy chủ trong một DMZ 
+Clear my choice
+Câu hỏi 8Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiBạn là người quản trị mạng cho một công ty, công ty bạn muốn triển khai 2 NetID khác nhau cho hai phòng ban, bạn làm thế nào để trên mạng không bị trùng IP và tiết kiệm công sức nhất cho người quản trị?Select one:a. Sử dụng IP tĩnh trên mỗi nhánh mạng 
+b. Một nhánh mạng dựng DHCP Server nhánh còn lại sử dụng IP tĩnh 
+c. Cấu hình DHCP Server và một DHCP relay Agent. 
+d. Cài đặt và cấu hình DHCP Server trên mỗi nhánh mạng 
+Clear my choice
+Câu hỏi 9Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 10Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?Select one:a. Kerberos 
+b. Phần mềm antivirus 
+c. Xác thực người dùng 
+d. Firewall 
+Clear my choice
+Câu hỏi 11Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi thiếu tính toàn vẹn trong một hệ thống bảo mật, …
+sẽ xảy raSelect one:a. Database hacking 
+b. Data deletion 
+c. Data tampering 
+d. Data leakage 
+Clear my choice
+Câu hỏi 12Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi“An ninh mạng” là gì?Select one:a. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+d. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+Clear my choice
+Câu hỏi 13Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác mật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:a. password83@ 
+b. password@83 
+c. pas@sword83 
+d. pass@word83 
+Clear my choice
+Câu hỏi 14Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại virus nào có thể lây nhiễm vào các tệp dữ liệu?Select one:a. File Virus 
+b. Toolkit 
+c. Mailware 
+d. Macro Virus 
+Clear my choice
+Câu hỏi 15Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiIP Security Policy được Windows cấu hình với 3 Policies mặc định. Trong đó Policy có tên “Secure Server (Request Security)” mang ý nghĩa:Select one:a. Máy tính cũng gởi yêu cầu sử dụng IPSec. Nếu máy kia không đáp ứng thì kết thúc phiên giao tiếp. 
+b. Máy tính cũng gởi yêu cầu sử dụng IPSec. Nếu máy kia không đáp ứng thì vẫn có thể giao tiếp bình thường (không có IPSec). 
+c. Nếu một máy khác yêu cầu dùng IPSec để giao tiếp, máy tính sẽ tự kích hoạt IPSec. 
+d. Nếu một máy khác yêu cầu dùng IPSec để giao tiếp, máy sẽ từ chối - không giao tiếp. 
+Clear my choice
+Câu hỏi 16Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Ban Cơ yếu Chính phủ 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+c. Bộ Công an 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+Clear my choice
+Câu hỏi 17Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMáy Windows Server 2003 có 2 thiết bị giao tiếp mạng: một giao tiếp Internet và một giao tiếp với các Client. Người quản trị triển khai NAT trên Windows Server này để chia sẽ kết nối internet. Sau khi triển khai xong thì Server giao tiếp internet tốt, còn các Client thì không giao tiếp được mặc dùng đã khai báo đúng và đủ các thông số IP cho Clients. Nguyên nhân dẫn đến tình trạng trên:Select one:a. Do Windows Server dùng phiên bản Standard, không hỗ trợ SecureNAT 
+b. Khi triển khai NAT, người quản trị đã chọn sai thiết bị giao tiếp internet. 
+c. Do Hệ Điều hành trên Client không hỗ trợ giao tiếp internet qua NAT Server 
+d. Do dịch vụ “Basic Firewall” ngăn không cho các Client giao tiếp internet 
+Clear my choice
+Câu hỏi 18Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? aSelect one:a. IPSec 
+b. TCP/IP 
+c. IPX 
+d. SSL 
+Clear my choice
+Câu hỏi 19Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+b. Thông tin được gửi từ nguồn giả mạo 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 20Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi________ là  sự dự đoán của việc
+truy cập trái phép hoặc phá vỡ máy tính hoặc dữ liệu bằng các mạng không dây.Select one:a. Ứng
+dụng thiết bị có dây 
+b. Truy
+cập không dây 
+c. Bảo mật có dây 
+d. Bảo mật không dây 
+Clear my choice
+
+Câu hỏi 21Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus có thể lây nhiễm thông qua thiết bị nào?Select one:a. CD-Room 
+b. Thẻ nhớ 
+c. Tất cả 
+d. USB 
+Clear my choice
+Câu hỏi 22Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+b. Bộ Công an 
+c. Ban Cơ yếu Chính phủ 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+Clear my choice
+Câu hỏi 23Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại file nào có thể phát tán Virus ?Select one:a. .exe 
+b. .com 
+c. Virus có thể phát tán ở bất cứ file nào 
+d. .xyz 
+Clear my choice
+Câu hỏi 24Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi____________ được chuyển giữa thiết bị của bạn
+và máy chủ được mã hóa an toàn nếu bạn đang sử dụng VPNSelect one:a. Document files (tập tin tài liệu) 
+b. data (dữ liệu)  
+c. Virus 
+d. Music files (tập tin âm thanh) 
+Clear my choice
+Câu hỏi 25Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác log file trên hệ thống của bạn phát hiện một nổ lực giành quyền truy cập đến một tài khoản đơn. Nổ lực này đã không thành công vào thời điểm đó. Theo kinh nghiệm của bạn thì loại tấn công thích hợp nhất là gì ?Select one:a. Tấn công đoán mật khẩu (Password Guessing) 
+b. Tấn công bằng sâu 
+c. Tấn công cửa sau 
+d. TCP/IP hijacking 
+Clear my choice
+Câu hỏi 26Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVì sao cần bảo vệ thông tin máy tính?Select one:a. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+b. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+c. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+d. Tất cả các đáp án 
+Clear my choice
+Câu hỏi 27Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiai đoạn đầu của hacking là gì?Select one:a. Duy trì truy cập 
+b. Dò tìm (Scanning) 
+c. Gaining truy cập 
+d. Trinh sát 
+Clear my choice
+Câu hỏi 28Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng năm 2018 quy định vềSelect one:a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+d. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+Clear my choice
+Câu hỏi 29Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi kết thúc công việc trên máy tính xách tay và ra ngoài khoảng 1 tiếng vào buổi trưa ta nên làm gì trước khi ra ngoài ?Select one:a. Chắc chắn rằng máy tính xách tay của ta được bảo vệ trên bàn làm việc hay được cất, khóa an toàn 
+b. Log out khỏi máy tính xách tay 
+c. Shut down và đóng máy lại 
+d. Nói với đồng nghiệp để mắt đến máy tính xách tay 
+Clear my choice
+Câu hỏi 30Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChữ ký số được sử dụng cho mục đích gì?Select one:a. Để kiểm tra định danh người gửi 
+b. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+c. Cung cấp chứng chỉ 
+d. Thu hồi một chứng chỉ 
+Clear my choice
+Câu hỏi 31Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChứng nhận chứa (certificate) chứa thông tin?Select one:a. Tất cả đều đúng 
+b. Chữ ký 
+c. Thông tin thuật toán tạo mã khoá 
+d. Thuật toán tạo chữ ký 
+Clear my choice
+Câu hỏi 32Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPort mặc định của WorldClient (Mdaemon) là bao nhiêu?Select one:a. 3000 
+b. 4000 
+c. 1000 
+d. 2000 
+Clear my choice
+Câu hỏi 33Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi một user báo cáo rằng hệ thống của anh ta đã phát hiện một virus mới. Điều gì sau đây cần làm như là bước đầu tiên để xử lý tình huống này ?Select one:a. Disable tài khoản email của anh ta 
+b. Định dạng lại đĩa cứng 
+c. Kiểm tra lại tập tin diệt virus hiện hành 
+d. Cài đặt lại hệ điều hành 
+Clear my choice
+Câu hỏi 34Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQuyền truy cập nào cho phép ta lưu giữ một tập tin?Select one:a. Ghi 
+b. Sao chép 
+c. Backup 
+d. Đọc 
+Clear my choice
+Câu hỏi 35Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHãy chọn phát biểu đúng trong các phát biểu sau:Select one:a. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+b. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+c. Máy tính không kết nối Internet thì không bị nhiễm virus 
+d. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+Clear my choice
+Câu hỏi 36Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?Select one:a. 2 
+b. 7 
+c. 4 
+d. Nhiều 
+Clear my choice
+Câu hỏi 37Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiThiết bị nào lưu trữ thông tin về đích đến trong mạng ?Select one:a. Firewall 
+b. Hub 
+c. Router 
+d. Modem 
+Clear my choice
+Câu hỏi 38Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể public một trang web ra ngoài Internet, ta thường thực hiện như thế nào? Select one or more:a. Nat port trên Router 
+b. Routing trên ISA (TMG) 
+c. Nat port trên ISA (TMG) 
+d. Routing trên Router 
+
+Câu hỏi 39Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNếu muốn xem một tài liệu "bảo mật" được mã hóa trên hệ mật bất đối xứng do người khác gởi đến , bạn phải sử dụng khóa nào để giải mật tài liệu?Select one:a. Khoá công khai của bên gửi 
+b. Khoá công khai của bạn 
+c. Khoá cá nhân của bên gửi 
+d. Khoá cá nhân của bạn 
+Clear my choice
+Câu hỏi 40Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi.....…
+của thông tin có nghĩa là chỉ những người dùng được ủy quyền mới có khả năng
+truy cập thông tin.Select one:a. Availability 
+b. Integrity 
+c. Confidentiality 
+d. Non-repudiation 
+Clear my choice
+
+Câu hỏi 41Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhát biểu nào sau đây là đúng với Bitlocker Drive Encryption?Select one:a. Là phần mềm hóa công khai 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+Clear my choice
+Câu hỏi 42Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác biểu hiện của một hệ thống mất tính toàn vẹn?Select one:a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Thay đổi giao diện trang chủ của một website. 
+c. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+d. Tất cả đáp án đã cho đều đúng 
+Clear my choice
+Câu hỏi 43Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình xác định vị trí và các thông tin mạng được gọi là gì ?Select one:a. Quét 
+b. Liệt kê 
+c. Thiết bị làm nhiễu 
+d. In dấu chân 
+Clear my choice
+Câu hỏi 44Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:Select one:a. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+b. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+c. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+d. Khó bị các chương trình Anti Virus phát hiện 
+Clear my choice
+Câu hỏi 45Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCông nghệ nào sau đây dựa vào thuộc tính vật lý của user để xác thực ?Select one:a. Các mã thông báo 
+b. Xác thực lẫn nhau 
+c. Sinh trắc học 
+d. Thẻ thông minh 
+Clear my choice
+Câu hỏi 46Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toànSelect one:a. 3 
+b. 4 
+c. 6 
+d. 5 
+Clear my choice
+Câu hỏi 47Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMạng nào sau đây không phải là một vùng bảo mật ?Select one:a. Internet 
+b. Intranet 
+c. NAT 
+d. Extranet 
+Clear my choice
+Câu hỏi 48Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiAudit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằmSelect one:a. Xác thực đó là ai 
+b. Ai đã làm gì 
+c. Tất cả đều đúng 
+d. Cấp quyền ai có thể làm gì 
+Clear my choice
+Câu hỏi 49Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?Select one:a. Firewall 
+b. Xác thực người dùng 
+c. Kerberos 
+d. Phần mềm antivirus 
+Clear my choice
+Câu hỏi 50Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiao thức nào được thiết kế để cung cấp bảo mật cho mạng không dây tương đương với việc bảo mật của một mạng diện rộng ? Select one:a. WAP 
+b. WEP 
+c. IR 
+d. WTLS 
+Clear my choice
+Câu hỏi 51Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?Select one:a. Dự phòng nguồn điện của máy phát điện 
+b. UPS 
+c. Ổn áp 
+d. Thanh nguồn điện 
+Clear my choice
+Câu hỏi 52Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSystem Hacking là một phương thức tấn công kiểu:Select one:a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+c. Điều khiển máy tính nạn nhân từ xa 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+Clear my choice
+Câu hỏi 53Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiao thức nào sau đây tuy không phải là một giao thức đường hầm nhưng nó sử dụng các giao thức đường hầm để bảo mật trên mạng?Select one:a. IPSec 
+b. L2TP 
+c. PPTP 
+d. L2F 
+Clear my choice
+Câu hỏi 54Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNếu ta muốn xác thực chữ ký của một người khác, khóa nào phải được sử dụng?Select one:a. Khóa công khai của bạn 
+b. Khoá công khai của người cần xác thực 
+c. Khoá cá nhân của người cần xác thực 
+d. Khoá cá nhân của bạn 
+Clear my choice
+Câu hỏi 55Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột máy tính kết nối internet bằng công nghệ ADSL. Khi kết nối internet thành công, ISP sẽ cấp một địa chỉ IP. Trong trường hợp không có một sự can thiệp nào khác, hãy chọn phát biểu chính xác:Select one:a. Địa chỉ IP đó được cấp cho card mạng giao tiếp intenet trên máy người dùng. 
+b. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-11 trên ADSL modem 
+c. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-45 trên ADSL modem 
+d. Địa chỉ IP đó được cấp cho máy tính của người dùng 
+Clear my choice
+Câu hỏi 56Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể đảm bảo an toàn thông tin, bằng cáchSelect one:a. sử dụng phương pháp mã hóa 
+b. kết hợp các biện pháp. 
+c. sử dụng tường lửa 
+d. phân quyền truy cập thông tin 
+Clear my choice
+Câu hỏi 57Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTổ đặc trách thông báo rằng họ đã nhận một cuộc gọi khẩn cấp từ phó chủ tịch đêm qua yêu cầu logon vào ID và mật khẩu của ông ta. Đây là loại tấn công gì ?Select one:a. Tấn công chuyển tiếp 
+b. Trojan 
+c. Giả mạo 
+d. Social engineering (Khai thác giao tiếp) 
+Clear my choice
+Câu hỏi 58Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?Select one:a. VPN 
+b. SSH 
+c. SSL 
+d. IPSec 
+Clear my choice
+Câu hỏi 59Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:Select one:a. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gởi ra ngoài 
+b. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+c. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+d. Khó bị các chương trình Anti Virus phát hiện 
+Clear my choice
+Câu hỏi 60Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình xác thực nào sử dụng nhiều hơn một yếu tố xác thực để logon?Select one:a. Đa yếu tố ( multi-factor) 
+b. Thẻ thông minh 
+c. Kerberos 
+d. Sinh trắc học 
+Clear my choice
+
+Câu hỏi 61Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?Select one:a. Cựu hacker mũ xám 
+b. Hacker hiểm độc 
+c. Chuyên gia bảo mật 
+d. Cựu hacker mũ đen 
+Clear my choice
+Câu hỏi 62Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:a. 25101998 
+b. password83 
+c. !$aLtNb83 
+d. reception 
+Clear my choice
+Câu hỏi 63Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrojan là một phương thức tấn công kiểu:Select one:a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+d. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+Clear my choice
+Câu hỏi 64Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiThiết bị nào giám sát lưu lượng mạng theo cách thụ động ?Select one:a. Sniffer 
+b. IDS 
+c. Web browser 
+d. Firewall 
+Clear my choice
+Câu hỏi 65Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác tập tin nào sau đây có khả năng chứa virus nhất ?Select one:a. bigpic.jpeg 
+b. note.txt 
+c. picture.gif.exe 
+d. database.dat 
+Clear my choice
+Câu hỏi 66Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrojan là một phương thức tấn công kiểu:Select one:a. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+Clear my choice
+Câu hỏi 67Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrường Đại học GTVT Tp.HCM dự tính triển khai kết nối VPN Site-to-Site giữa các Chi nhánh nhưng vẫn còn lo ngại về độ an toàn của dữ liệu khi truyền trên hạ tầng internet. Là người quản trị mạng tại trường, bạn chọn giải pháp nào dưới đây để khắc phục khó khăn trên?Select one:a. Yêu cầu nhà cung cấp dịch vụ internet (ISP) mã hóa các dữ liệu truyền bằng VPN từ UT.EDU.VN ra ngoài internet. 
+b. Sử dụng hệ thống mã hóa tập tin (Encrypt File System - EFS) có sẵn trong Windows đê mã hóa các tập tin trước khi chia sẻ qua VPN. 
+c. Đặt mật khẩu có độ phức tạp cao cho các Dial-In User 
+d. Sử dụng IPSec kết hợp với giao thức L2TP. 
+Clear my choice
+Câu hỏi 68Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?Select one:a. 7 
+b. 2 
+c. Nhiều 
+d. 4 
+Clear my choice
+Câu hỏi 69Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột máy chủ trên mạng không chấp nhận các kết nối TCP nữa. Máy chủ thông báo rằng nó đã vượt quá giới hạn của phiên làm việc. Loại tấn công nào có thể đang xảy ra ?Select one:a. Tấn công smurf 
+b. TCP/IP hijacking 
+c. Tấn công TCP ACK (tấn công kiểu SYNACK) 
+d. Tấn công virus 
+Clear my choice
+Câu hỏi 70Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?Select one:a. Cập nhật bản vá lỗi 
+b. Sao lưu hệ thống 
+c. Cài lại HĐH 
+d. Cài phần mềm diệt Virus 
+Clear my choice
+Câu hỏi 71Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?Select one:a. 5 
+b. 3 
+c. 2 
+d. 4 
+Clear my choice
+Câu hỏi 72Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTác hại của virus máy tính ?Select one:a. Phá hủy hoặc đánh cắp dữ liệu 
+b. Tất cả các phương án 
+c. Gây khó chịu cho người dùng 
+d. Tiêu tốn tài nguyên hệ thống. 
+Clear my choice
+Câu hỏi 73Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)Select one:a. Có thể hạn chế trong bằng cách lập trình 
+b. Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+c. Chỉ có thể dùng tường lửa 
+d. Hiện nay đã có cách phòng chống hiệu quả 
+Clear my choice
+Câu hỏi 74Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình phá vỡ một phiên làm việc IM được gọi là gì ?Select one:a. Truyền rộng rãi 
+b. Phản ứng với rắc rối 
+c. Thiết bị làm nhiễu 
+d. Khảo sát định vị 
+Clear my choice
+Câu hỏi 75Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi.....… có nghĩa là bảo vệ dữ liệu khỏi sự sửa đổi của người
+dùng không xác định.Select one:a. Confidentiality 
+b. Integrity 
+c. Non-repudiation 
+d. Authentication 
+Clear my choice
+Câu hỏi 76Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiBạn là người quản trị mạng tại trung tâm CNTT. Máy Server ISA1 cung cấp giao tiếp Internet cho tất cả máy trong mạng. Để đảm bảo an toàn cho tất cả Client, Bạn quyết định triển khai giao tiếp internet cho Client kiểu Web Client Proxy. Triển khai vấn đề này, ISA1 phải được cấu hình như là một Proxy Server, bằng cách:Select one:a. Trên máy ISA1, trong nhánh “Networks”: Properties cho “Internal” vào tab “Web Proxy” và chọn “Enable Web Proxy Client”. 
+b. Trên máy ISA1, trong nhánh “Networks”: Properties cho “External” vào tab “Web Proxy” và chọn “Enable Proxy”. 
+c. Trên máy ISA1, trong nhánh “Networks”: Properties chọn “Local Host” vào tab “Web Proxy” và chọn “Enable Proxy”. 
+d. Trên máy ISA1, trong “Internet Options” vào tab “Connection” chọn nút “LAN Settings” và chọn “Use a Proxy Server”. 
+Clear my choice
+Câu hỏi 77Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCache là một vùng đĩa cứng dùng lưu trữ các dữ liệu đi ngang qua ISA Server. Sau khi cài đặt ISA Server 2006, nó sẽ:Select one:a. Tự động cache tất cả dữ liệu đi ngang qua nó ngay sau khi cài đặt ISA 
+b. Chỉ tự động cache sau khi người dùng định nghĩa Cache trên ISA Server (Define cache) 
+c. Chỉ tự động cache sau khi người dùng Enable Cache trên ISA Server 
+d. Chỉ tự động cache sau khi người dùng định nghĩa và Enable Cache trên ISA Server 
+Clear my choice
+Câu hỏi 78Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrường Đại học GTVT Tp.HCM, có hệ thống mạng Workgroup với 100 PC dữ liệu hiện tại của công ty được lưu trữ phân tán tại mỗi PC và mỗi khi chia sẽ dữ liệu thì cần phải cấu hình lại mỗi PC. Nhu cầu của công ty muốn quản lý hệ thống mạng tập trung với mọi thông tin, dữ liệu, tài nguyên, ...Bạn sẽ làm gì để có thể triển khai hệ thống quản lý mạng LAN? Select one:a. Chọn một Server chuyên dụng và cài đặt Windows Server 2012 
+b. Triển khai TMG Firewall 
+c. Cài đặt dịch vụ Active Directory cho Server 
+d. Cấu hình dịch vụ Web services 
+e. Gia nhập hệ thống Client vào domain 
+Clear my choice
+Câu hỏi 79Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhần mềm nào trong số đó không phải là phần mềm AntiVirus?Select one:a. Avast 
+b. Beast 
+c. Panda 
+d. Avira 
+Clear my choice
+Câu hỏi 80Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHệ thống nào sau đây có thể được sử dụng để giám sát một mạng đối với các hành động trái phép ?Select one:a. N-IDS (Network-based IDS) 
+b. Network sniffer 
+c. H-IDS (Host-based IDS) 
+d. Network sniffer VÀ N-IDS (Network-based IDS) 
+Clear my choice
+
+Câu hỏi 81Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:Select one:a. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+b. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+c. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+d. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+Clear my choice
+Câu hỏi 82Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột máy tính kết nối internet bằng công nghệ ADSL. Khi kết nối internet thành công, ISP sẽ cấp một địa chỉ IP. Trong trường hợp không có một sự can thiệp nào khác, hãy chọn phát biểu chính xác:Select one:a. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-11 trên ADSL modem 
+b. Địa chỉ IP đó được cấp cho máy tính của người dùng 
+c. Địa chỉ IP đó được cấp cho card mạng giao tiếp intenet trên máy người dùng. 
+d. Địa chỉ IP đó được cấp cho thiết bị mạng cổng RJ-45 trên ADSL modem 
+Clear my choice
+Câu hỏi 83Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus không thể ẩn mình vào đâu ?Select one:a. CMOS 
+b. BIOS 
+c. Process 
+d. DLL 
+Clear my choice
+Câu hỏi 84Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột chương trình nằm trong một chương trình khác được cài vào hệ thống gọi là một …….Select one:a. Armored virus 
+b. Polymorphic virus 
+c. Sâu 
+d. Trojan Horse 
+Clear my choice
+Câu hỏi 85Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình quyết định giá trị của thông tin hay thiết bị trong một tổ chức được gọi là gì?Select one:a. Đánh giá rủi ro 
+b. Đánh giá tài nguyên thông tin 
+c. Quét các điểm yếu 
+d. Nhận dạng chuỗi 
+Clear my choice
+Câu hỏi 86Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrường Đại học GTVT Tp.HCM có nhiều chi nhánh. Các nhân viên kế toán ở các Chi nhánh muốn chia sẻ những thông tin kế toán với nhau. Giải pháp nào sau đây là khả thi hiện nay?Select one:a. Sử dụng dây mạng để nối tất cả các Chi nhánh lại với nhau. 
+b. Mỗi Chi nhánh thuê bao một Leased Line riêng. Routing các Leased Line lại với nhau. 
+c. Sử dụng Remote Dial-up để quay số nối mạng từ Chi nhánh A qua B mỗi khi có nhu cầu truy cập thông tin chia sẻ. 
+d. Với đường truyền Internet có sẵn, triển khai hệ thống VPN cho các Chi nhánh. 
+Clear my choice
+Câu hỏi 87Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhá hoại thụ động mang đặc trưng gì?Select one:a. Chặn bắt và phân tích dòng số liệu 
+b. Chặn bắt hoặc giám sát thông tin 
+c. Chặn bắt và khám phá nội dung thông tin 
+d. Chặn bắt và thay đổi thông tin 
+Clear my choice
+Câu hỏi 88Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?Select one:a. Extranet 
+b. Internet 
+c. VPN 
+d. VLAN 
+Clear my choice
+Câu hỏi 89Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác phương pháp sinh trắc học nào sau đây được coi là an toàn nhất ?Select one:a. Phân tích chữ ký 
+b. Lấy dấu bàn tay 
+c. Quét tiếng nói 
+d. Không quan trọng 
+Clear my choice
+Câu hỏi 90Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi xây dựng kết nối VPN kiểu Remote-Access, người dùng A không thể dial vào VPN Server mặc dù đã thiết lập đúng các thông số cho VPN Connection và khai báo chính xác Username và password. Các người dùng khác vẫn kết nối VPN từ nhà vào Văn phòng Công ty được bình thường. Nguyên nhân lỗi có thể là:Select one:a. Hệ Điều hành trên máy người dùng A và Hệ Điều hành trên máy VPN Server không tương thích nhau. 
+b. Tài khoản của người dùng A không được cấp phép đăng nhập từ xa 
+c. IP address trên máy người dùng A không cùng Net.ID với IP address trong Văn phòng Công ty 
+d. Hệ Điều hành trên máy người dùng A không hỗ trợ kết nối VPN 
+Clear my choice
+Câu hỏi 91Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrường Đại học GTVT Tp.HCM dự tính triển khai kết nối VPN Site-to-Site giữa các Chi nhánh nhưng vẫn còn lo ngại về độ an toàn của dữ liệu khi truyền trên hạ tầng internet. Là người quản trị mạng tại trường, bạn chọn giải pháp nào dưới đây để khắc phục khó khăn trên?Select one:a. Đặt mật khẩu có độ phức tạp cao cho các Dial-In User. 
+b. Yêu cầu nhà cung cấp dịch vụ internet (ISP) mã hóa các dữ liệu truyền bằng VPN từ UT.EDU.VNra ngoài internet. 
+c. Sử dụng hệ thống mã hóa tập tin (Encrypt File System - EFS) có sẵn trong Windows đê mã hóa các tập tin trước khi chia sẻ qua VPN. 
+d. Sử dụng IPSec kết hợp với giao thức L2TP. 
+Clear my choice
+Câu hỏi 92Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?Select one:a. Trojan Horse 
+b. Ipsec 
+c. Tràn IP 
+d. DDOS 
+Clear my choice
+Câu hỏi 93Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMáy ISA Server có 2 card giao tiếp mạng
+•	External Adapter có IP address: 192.168.1.2 và Defautl Gateway là: 192.168.1.1
+•	Internal Adapter có IP address: 172.16.1.2 và Defautl Gateway là: 172.16.1.1
+Sau khi cài đặt ISA Server thì người dùng báo rằng họ không thể truy cập các Web site trên internet mặc dù bạn đã lập một Access Rule cho phép Internal truy cập internet. Bạn làm thế nào để giải quyết sự cố trên:Select one:a. Cấu hình lại Default Gateway của 2 card Internal và External là 192.168.1.1 
+b. Bổ sung thêm một Access rule cho phép HTTP trafic đi từ Internal đến External 
+c. Bỏ trống Default Gateway trên Internal Adapter 
+d. Tạo Network Set cho mỗi Sub net của 2 giao tiếp mạng trên 
+Clear my choice
+Câu hỏi 94Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSniffing là một phương thức tấn công kiểu:Select one:a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Điều khiển máy tính nạn nhân từ xa 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+Clear my choice
+Câu hỏi 95Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi ta lưu giữ một khóa cá nhân trên đĩa cứng cục bộ, làm thế nào để bảo đảm là nó được bảo mật ?Select one:a. Lưu trữ nó trong một thư mục tương tự như khóa công khai 
+b. Cần bảo vệ bằng mật khẩu 
+c. Lưu trữ bản sao trong bì thư 
+d. Lưu trữ dữ liệu sao lưu vào đĩa mềm 
+Clear my choice
+Câu hỏi 96Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật nào được sử dụng để bảo đảm thông tin liên lạc qua một mạng không được bảo mật ?Select one:a. Telnet 
+b. VPN 
+c. SLIP 
+d. PPP 
+Clear my choice
+Câu hỏi 97Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?Select one:a. độ an toàn 
+b. độ sẵn sàng 
+c. độ chính xác 
+d. độ tin cậy 
+Clear my choice
+Câu hỏi 98Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột user gọi điện đến cho ta (với tư cách là người quản lý) thông báo họ bị mất mật khẩu và cần truy cập ngay lập tức. Bạn nên làm gì ?Select one:a. Cung cấp truy cập ngay lập tức, và sau đó kiểm tra chứng cứ của họ. 
+b. Cho họ một mật khẩu riêng tạm thời 
+c. Tạo một login và mật khẩu tạm thời để họ sử dụng. 
+d. Xác minh định danh của họ trước khi cấp quyền truy cập 
+Clear my choice
+Câu hỏi 99Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác phương pháp sinh trắc học nào sau đây được coi là an toàn nhất ?Select one:a. Không quan trọng 
+b. Lấy dấu bàn tay / Lấy dấu ngón tay 
+c. Quét tiếng nói 
+d. Phân tích chữ ký 
+Clear my choice
+Câu hỏi 100Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?Select one:a. D 
+b. I 
+c. A 
+d. C 
+Clear my choice
+
+Câu hỏi 101Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiÁp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:Select one:a. Kerberos 
+b. Encapsulating Security Payload (ESP) 
+c. Certified Authentication (CA) 
+d. Internet Key Exchange (IKE) 
+Clear my choice
+Câu hỏi 102Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiBạn là người quản trị mạng tại trung tâm CNTT. Máy ISA1 được cài đặt ISA Server 2004. Bạn đã tạo một network Rule định nghĩa mối quan hệ NAT giữa Internal và External. bên trong Internal có một máy Windows Server 2003 trên SERVER1. Bạn cần điều khiển máy SERVER1 từ xa bằng Remote Desktop (RDP). Đồng thời, cũng cho phép một số người dùng Remote Desktop máy SERVER1 qua một port không theo chuẩn: 12345. Bạn phải làm thế nào trên ISA1? Select one or more:a. Định nghĩa một Protocol mới có tên RDP-x, sử dụng TCP port 12345 làm inbound 
+b. Định nghĩa một Protocol mới có tên RDP-x, sử dụng TCP port 12345 làm outbound 
+c. Tạo một Server publishing rule sử dụng RDP-x Protocol 
+d. Tạo một Access Rule sử dụng RDP-x Protocol 
+
+Câu hỏi 103Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?Select one:a. Nhiều 
+b. 7 
+c. 4 
+d. 2 
+Clear my choice
+Câu hỏi 104Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCIH là gì ?Select one:a. Là một chủng virus máy tính 
+b. Tên gọi khác của virus Chernobyl 
+c. Khóa học An  toàn mạng máy tính 
+d. Là trojan giúp hacker phân tích dữ liệu 
+Clear my choice
+Câu hỏi 105Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột đêm làm việc khuya và bạn phát hiện rằng ổ cứng của bạn hoạt động rất tích cực mặc dù bạn không thực hiện bất kỳ thao tác nào trên máy tính. Bạn nghi ngờ điều gì?Select one:a. Hệ thống của bạn đang chịu tác động của tấn công DoS 
+b. Khả năng ổ đĩa ngừng hoạt động sắp xảy ra 
+c. Một virus đang phát tán rộng trong hệ thống 
+d. Tấn công TCP/IP hijacking đang cố gắng thực hiện 
+Clear my choice
+Câu hỏi 106Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiBạn nhận được một email từ Microsoft, trong đó có một file đính kèm. Trong thư nói rằng có một số lỗi đã được phát hiện và sửa chữa , bạn phải chạy chương trình được đính kèm trong thư để sửa những lỗi đó. Trong trường hợp này bạn sẽ làm gì để bảo đảm an toàn?Select one:a. Mở chương trình và chạy nó ngay. Chương trình đó thật sự an toàn vì nó được gửi từ Microsoft 
+b. Lưu chương trình đó lại và dùng chương trình diệt virus để quét, nếu không phát hiện thấy virus, sẽ chạy chương trình đó để sửa lỗi 
+c. Xoá email đó ngay. Mocrosoft và các nhà cung cấp không bao giờ gửi chương trình sửa lỗi qua email. 
+d. Không có giải pháp nào diệt virus 
+Clear my choice
+Câu hỏi 107Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMục nào không là tấn công chủ độngSelect one:a. Tấn công replay 
+b. Tấn công từ chối dịch vụ 
+c. Tấn công nghe lén 
+d. Tấn công giả mạo (masquerade) 
+Clear my choice
+Câu hỏi 108Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 109Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrình duyệt nào sau đây được sử dụng cho mục
+đích bảo vệ sự riêng tư?Select one:a. Tor 
+b. Firefox  
+c. Chrome  
+d. Safari 
+Clear my choice
+Câu hỏi 110Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại khoá mật mã nào sau đây dễ bị phá nhất ?Select one:a. 256 bit 
+b. 40 bit 
+c. EEC 
+d. RSA 
+Clear my choice
+Câu hỏi 111Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?Select one:a. Sâu DoS đã lây nhiễm cục bộ 
+b. Máy đích bị virus 
+c. Tường lửa chưa hiệu quả 
+d. Hệ thống mạng bị lỗi 
+Clear my choice
+Câu hỏi 112Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSystem Hacking là một phương thức tấn công kiểu:Select one:a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+c. Điều khiển máy tính nạn nhân từ xa 
+d. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+Clear my choice
+Câu hỏi 113Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương pháp xác thực nào sử dụng một KDC để thực hiện xác thực ?Select one:a. Kerberos 
+b. Sinh trắc học 
+c. Thẻ thông minh 
+d. Chap 
+Clear my choice
+Câu hỏi 114Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại tấn công nào sử dụng nhiều hơn một máy tính để tấn công nạn nhân ?Select one:a. DDoS 
+b. Sâu 
+c. DoS 
+d. Tấn công UDP 
+Clear my choice
+Câu hỏi 115Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrường Đại học GTVT Tp.HCM có nhiều chi nhánh. Các nhân viên kế toán ở các Chi nhánh muốn chia sẻ những thông tin kế toán với nhau. Giải pháp nào sau đây là khả thi hiện nay?Select one:a. Sử dụng Remote Desktop hoặc dùng Teamview để quay số nối mạng từ Chi nhánh A qua B mỗi khi có nhu cầu truy cập thông tin chia sẻ. 
+b. Với đường truyền Internet có sẵn, triển khai hệ thống VPN cho các Chi nhánh. 
+c. Mỗi Chi nhánh thuê bao một Leased Line riêng. Routing các Leased Line lại với nhau. 
+d. Sử dụng dây mạng để nối tất cả các Chi nhánh lại với nhau. 
+Clear my choice
+Câu hỏi 116Câu trả lời đã được lưuĐạt điểm 1,0
+Xóa cờĐoạn văn câu hỏiBạn là người quản trị mạng tại trung tâm UT.EDU.VN. Máy Server TMG1 đặt tại CN Bình Thạnh, máy TMG2 đặt tại CN Vũng Tàu. Bạn đang triển khai kết nối VPN kiểu Site-to-Site giữa 2 Chi nhánh với giao thức L2TP/IPSec và dùng phương thức chứng thực Pre-shared Key. Bạn mở “Routing and Remote Access” và nhập Pre-shared Key vào trong hộp thoại Properties của RRAS Server. Kết nối Site-to-Site thành công. Bạn khởi động lại TMG Server và thử kết nối lại thì thất bại. Bạn sẽ giải quyết vấn đề này bằng cách:Select one:a. Nhập lại Pre-shared Key trên cả 2 TMG Server tại 2 Chi nhánh. Đảm bảo đúng từng ký tự, con số… 
+b. Cài đặt lại các Certificates trên TMG Server ở cả 2 Chi nhánh. Đồng thoại kích hoạt phương thức chứng thực EAP trên hộp thoại “Authenticaties” trong “TMG Management Console”. 
+c. Trên TMG Server ở cả 2 Chi nhánh: xóa bỏ Pre-shared Key trong “Routing and Remote Access” và nhập lại Pre-shared Key trong hộp thoại “VPN Properties” trong “TMG  Management Console” 
+d. Gở bỏ tất cả các Certificates trên TMG Server ở cả 2 Chi nhánh. 
+Clear my choice
+Câu hỏi 117Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNổ lực tấn công để can thiệp vào một phiên liên lạc bằng việc thêm vào một máy tính giữa hai hệ thống được gọi là một …….?Select one:a. Sâu 
+b. Tấn công cửa sau 
+c. Tấn công dạng "Man in the middle" 
+d. TCP/IP hijacking 
+Clear my choice
+Câu hỏi 118Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChiều dài tối thiểu mặc định của mật khẩu là ?Select one:a. 8 ký tự 
+b. 3 đến 5 ký tự 
+c. 12 đến 15 ký tự 
+d. Tùy trường hợp 
+Clear my choice
+Câu hỏi 119Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?Select one:a. Hạn chế thời gian 
+b. Disable tài khoản không dùng đến 
+c. Ngày hết hạn tài khoản 
+d. Giới hạn số lần logon 
+Clear my choice
+Câu hỏi 120Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐiều nào sau đây là điểm yếu của IP ?Select one:a. Tấn công dạng "Man in the middle" 
+b. Tấn công chuyển tiếp 
+c. Giả mạo IP 
+d. Mã nguồn độc hại 
+Clear my choice
+
+Câu hỏi 1Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)Select one:a. Có thể hạn chế trong bằng cách lập trình 
+b. Hiện nay đã có cách phòng chống hiệu quả 
+c. Chỉ có thể dùng tường lửa 
+d. Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+Clear my choice
+Câu hỏi 2Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSniffing là một phương thức tấn công kiểu:Select one:a. Điều khiển máy tính nạn nhân từ xa 
+b. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+c. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+d. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+Clear my choice
+Câu hỏi 3Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus có thể lây nhiễm thông qua thiết bị nào?Select one:A. USB 
+B. Tất cả 
+C. CD-Room 
+D. Thẻ nhớ 
+Clear my choice
+Câu hỏi 4Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn giả mạo 
+Clear my choice
+Câu hỏi 5Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?Select one:IPSec 
+SSL 
+SSH 
+VPN 
+Clear my choice
+Câu hỏi 6Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?Select one:a. VLAN 
+b. VPN 
+c. Internet 
+d. Extranet 
+Clear my choice
+Câu hỏi 7Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?Select one:a. SSL 
+b. SSH 
+c. IPSec 
+d. VPN 
+Clear my choice
+Câu hỏi 8Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?Select one:a. Nhiều 
+b. 4 
+c. 7 
+d. 2 
+Clear my choice
+Câu hỏi 9Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?Select one:a. Kerberos 
+b. Xác thực người dùng 
+c. Phần mềm antivirus 
+d. Firewall 
+Clear my choice
+Câu hỏi 10Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?Select one:a. Hạn chế thời gian 
+b. Giới hạn số lần logon 
+c. Ngày hết hạn tài khoản 
+d. Disable tài khoản không dùng đến 
+Clear my choice
+Câu hỏi 11Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiX800 là mộtSelect one:Dịch vụ an toàn 
+Là một tiêu chuẩn mã hóa 
+Là một tiêu chuẩn 
+Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+Cơ chế an toàn 
+Clear my choice
+Câu hỏi 12Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhát biểu nào sau đây là đúng với Bitlocker Drive Encryption?Select one:a.  
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+d. Là phần mềm hóa công khai 
+Clear my choice
+Câu hỏi 13Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng năm 2018 quy định vềSelect one:a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+b. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+d. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+Clear my choice
+Câu hỏi 14Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?Select one:a. 2 
+b. 7 
+c. Nhiều 
+d. 4 
+Clear my choice
+Câu hỏi 15Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVì sao cần bảo vệ thông tin máy tính?Select one:a. Tất cả các đáp án 
+b. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+c. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+d. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+Clear my choice
+Câu hỏi 16Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?Select one:Read access 
+Write access 
+Full access 
+No access 
+Clear my choice
+Câu hỏi 17Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?Select one:a. 4 
+b. 2 
+c. 3 
+d. 5 
+Clear my choice
+Câu hỏi 18Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng được công bố ngày tháng năm nào?Select one:a. 25/06/2018 
+b. 12/06/2018 
+c. 01/01/2018 
+d. 01/01/2019 
+Clear my choice
+Câu hỏi 19Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác biểu hiện của một hệ thống mất tính toàn vẹn?Select one:a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Tất cả đáp án đã cho đều đúng 
+c. Thay đổi giao diện trang chủ của một website. 
+d. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+Clear my choice
+Câu hỏi 20Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+Clear my choice
+
+Câu hỏi 21Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChiều dài tối thiểu mặc định của mật khẩu là ?Select one:a. Tùy trường hợp 
+b. 3 đến 5 ký tự 
+c. 8 ký tự 
+d. 12 đến 15 ký tự 
+Clear my choice
+Câu hỏi 22Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSystem Hacking là một phương thức tấn công kiểu:Select one:a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Điều khiển máy tính nạn nhân từ xa 
+Clear my choice
+Câu hỏi 23Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình xác định topology của mạng được gọi là gì ?Select one:a. Thiết bị làm nhiễu 
+b. Quét mạng 
+c. In dấu chân 
+d. Liệt kê 
+Clear my choice
+Câu hỏi 24Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus không thể ẩn mình vào đâu ?Select one:A. BIOS 
+B. Process 
+C. CMOS 
+D. DLL 
+Clear my choice
+Câu hỏi 25Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChiều dài tối thiểu mặc định của mật khẩu là ?Select one:Tùy trường hợp 
+3 đến 5 ký tự 
+8 ký tự 
+12 đến 15 ký tự 
+Clear my choice
+Câu hỏi 27Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các loại  tấn công RSA được lưu ý thì không có dạngSelect one:Tấn công brute force 
+Tấn công bản rõ 
+Tấn công tính toán thời gian 
+Tấn công toán học 
+Clear my choice
+Câu hỏi 29Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toànSelect one:a. 5 
+b. 3 
+c. 4 
+d. 6 
+Clear my choice
+Câu hỏi 30Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCIH là gì ?Select one:A. Là một chủng virus máy tính 
+B. Là trojan giúp hacker phân tích dữ liệu 
+C. Khóa học An  toàn mạng máy tính 
+D. Tên gọi khác của virus Chernobyl 
+Clear my choice
+Câu hỏi 31Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toànSelect one:a. 4 
+b. 5 
+c. 3 
+d. 6 
+Clear my choice
+Câu hỏi 32Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể
+tìm bản rõ người thám mã sử dụngSelect one:a. Sử dụng phương pháp bài toán ngược 
+b. Sử dụng khóa 
+c. Sử dụng phần mềm, công cụ hack 
+d. Kết hợp nhiều cách thức khác nhau 
+Clear my choice
+Câu hỏi 33Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?Select one:a. độ tin cậy 
+b. độ sẵn sàng 
+c. độ an toàn 
+d. độ chính xác 
+Clear my choice
+Câu hỏi 34Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:a. reception 
+b. 25101998 
+c. password83 
+d. !$aLtNb83 
+Clear my choice
+Câu hỏi 35Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?Select one:a. Ổn áp 
+b. Thanh nguồn điện 
+c. UPS 
+d. Dự phòng nguồn điện của máy phát điện 
+Clear my choice
+Câu hỏi 36Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?Select one:Disable tài khoản không dùng đến 
+Ngày hết hạn tài khoản 
+Giới hạn số lần logon 
+Hạn chế thời gian 
+Clear my choice
+Câu hỏi 37Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại khoá mật mã nào sau đây dễ bị phá nhất ?Select one:40 bit 
+256 bit 
+RSA 
+EEC 
+Clear my choice
+Câu hỏi 38Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?Select one:a. Cập nhật bản vá lỗi 
+b. Sao lưu hệ thống 
+c. Cài lại HĐH 
+d. Cài phần mềm diệt Virus 
+Clear my choice
+Câu hỏi 39Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?Select one:a. độ sẵn sàng 
+b. độ an toàn 
+c. độ chính xác 
+d. độ tin cậy 
+Clear my choice
+Câu hỏi 40Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHãy chọn phát biểu đúng trong các phát biểu sau:Select one:A. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+B. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+C. Máy tính không kết nối Internet thì không bị nhiễm virus 
+D. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+Clear my choice
+
+Câu hỏi 41Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Bộ Công an 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+c. Ban Cơ yếu Chính phủ 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+Clear my choice
+Câu hỏi 42Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác biểu hiện của một hệ thống mất tính toàn vẹn?Select one:a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+c. Tất cả đáp án đã cho đều đúng 
+d. Thay đổi giao diện trang chủ của một website. 
+Clear my choice
+Câu hỏi 43Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhát biểu nào sau đây là đúng với Bitlocker Drive Encryption?Select one:a. Là phần mềm hóa công khai 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+Clear my choice
+Câu hỏi 44Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?Select one:a. Hacker hiểm độc 
+b. Cựu hacker mũ đen 
+c. Chuyên gia bảo mật 
+d. Cựu hacker mũ xám 
+Clear my choice
+Câu hỏi 45Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?Select one:a. Extranet 
+b. VPN 
+c. Internet 
+d. VLAN 
+Clear my choice
+Câu hỏi 46Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi kết thúc công việc trên máy tính xách tay và ra ngoài khoảng 1 tiếng vào buổi trưa ta nên làm gì trước khi ra ngoài ?Select one:a. Chắc chắn rằng máy tính xách tay của ta được bảo vệ trên bàn làm việc hay được cất, khóa an toàn 
+b. Nói với đồng nghiệp để mắt đến máy tính xách tay 
+c. Shut down và đóng máy lại 
+d. Log out khỏi máy tính xách tay 
+Clear my choice
+Câu hỏi 47Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn giả mạo 
+Clear my choice
+Câu hỏi 48Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVì sao cần bảo vệ thông tin máy tính?Select one:A. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+B. Tất cả các đáp án 
+C. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+D. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+Clear my choice
+Câu hỏi 49Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:Select one:a. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+b. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+c. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+d. Khó bị các chương trình Anti Virus phát hiện 
+Clear my choice
+Câu hỏi 50Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng được thông qua ngày tháng năm nào?Select one:a. 25/06/2018 
+b. 01/01/2019 
+c. 01/01/2018 
+d. 12/06/2018 
+Clear my choice
+Câu hỏi 52Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?Select one:a. 7 
+b. 2 
+c. Nhiều 
+d. 4 
+Clear my choice
+Câu hỏi 53Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhần mềm nào trong số đó không phải là phần mềm AntiVirus?Select one:a. Beast 
+b. Avast 
+c. Avira 
+d. Panda 
+Clear my choice
+Câu hỏi 54Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?Select one:a. Nhiều 
+b. 2 
+c. 4 
+d. 7 
+Clear my choice
+Câu hỏi 55Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi được hỏi về các mối đe dọa cho công ty từ phía các hacker. Loại thông tin nào sau đây sẽ giúp ích nhiều nhất ?Select one:a. Các điểm yếu 
+b. Nhận dạng mối đe dọa 
+c. Xác minh tài sản sở hữu 
+d. Đánh giá rủi ro 
+Clear my choice
+Câu hỏi 56Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChứng nhận chứa (certificate) chứa thông tin?Select one:a. Tất cả đều đúng 
+b. Thông tin thuật toán tạo mã khoá 
+c. Thuật toán tạo chữ ký 
+d. Chữ ký 
+Clear my choice
+Câu hỏi 57Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Giả mạo thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn giả mạo 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+Clear my choice
+Câu hỏi 58Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?Select one:a. 2 
+b. 7 
+c. Nhiều 
+d. 4 
+Clear my choice
+Câu hỏi 59Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Ban Cơ yếu Chính phủ 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+d. Bộ Công an 
+Clear my choice
+Câu hỏi 60Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?Select one:a. 2 
+b. Nhiều 
+c. 7 
+d. 4 
+Clear my choice
+
+Câu hỏi 61Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSniffing là một phương thức tấn công kiểu:Select one:A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+Clear my choice
+Câu hỏi 62Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:Select one:a. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+b. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+c. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+d. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+Clear my choice
+Câu hỏi 63Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Ban Cơ yếu Chính phủ 
+b. Bộ Công an 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+Clear my choice
+Câu hỏi 64Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại file nào có thể phát tán Virus ?Select one:a. .com 
+b. Virus có thể phát tán ở bất cứ file nào 
+c. .exe 
+d. .xyz 
+Clear my choice
+Câu hỏi 65Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus có thể lây nhiễm thông qua thiết bị nào?Select one:a. Thẻ nhớ 
+b. USB 
+c. CD-Room 
+d. Tất cả 
+Clear my choice
+Câu hỏi 66Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:reception 
+25101998 
+!$aLtNb83 
+password83 
+Clear my choice
+Câu hỏi 67Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?Select one:a. 01/01/2019 
+b. 12/06/2018 
+c. 01/01/2018 
+d. 25/06/2018 
+Clear my choice
+Câu hỏi 68Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrojan là một phương thức tấn công kiểu:Select one:a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+c. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+Clear my choice
+Câu hỏi 69Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiÁp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:Select one:a. Internet Key Exchange (IKE) 
+b. Encapsulating Security Payload (ESP) 
+c. Certified Authentication (CA) 
+d. Kerberos 
+Clear my choice
+Câu hỏi 70Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSystem Hacking là một phương thức tấn công kiểu:Select one:A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+Clear my choice
+Câu hỏi 71Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong sơ đồ kí số thành phần nào đặc trưng xác
+nhận cho một người?Select one:a. Khóa bí mật 
+b. bản mã 
+c. Khóa công khai 
+d. chữ ký số 
+Clear my choice
+Câu hỏi 72Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại khoá mật mã nào sau đây dễ bị phá nhất ?Select one:a. EEC 
+b. RSA 
+c. 40 bit 
+d. 256 bit 
+Clear my choice
+Câu hỏi 73Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQuyền truy cập nào cho phép ta lưu giữ một tập tin?Select one:a. Đọc 
+b. Backup 
+c. Sao chép 
+d. Ghi 
+Clear my choice
+Câu hỏi 74Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiAudit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằmSelect one:Tất cả đều đúng 
+Cấp quyền ai có thể làm gì 
+Xác thực đó là ai 
+Ai đã làm gì 
+Clear my choice
+Câu hỏi 75Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHệ thống nào chủ động thực hiện việc giám sát mạng, phân tích và có thể thực hiện các bước phòng ngừa , bảo vệ mạng ?Select one:a. Router 
+b. IDS 
+c. Sniffer 
+d. Switch 
+Clear my choice
+Câu hỏi 76Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?Select one:a. Máy đích bị virus 
+b. Tường lửa chưa hiệu quả 
+c. Hệ thống mạng bị lỗi 
+d. Sâu DoS đã lây nhiễm cục bộ 
+Clear my choice
+Câu hỏi 77Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiBộ lọc gói thực hiện chức năng nào ?Select one:a. Loại trừ sự xung đột trong mạng 
+b. Ngăn chặn các gói trái phép đi vào từ mạng bên ngoài 
+c. Cho phép tất cả các gói đi vào mạng 
+d. Cho phép tất cả các gói rời mạng 
+Clear my choice
+Câu hỏi 78Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiÁp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:Select one:a. Certified Authentication (CA) 
+b. Encapsulating Security Payload (ESP) 
+c. Kerberos 
+d. Internet Key Exchange (IKE) 
+Clear my choice
+Câu hỏi 79Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?Select one:a. 01/01/2018 
+b. 01/01/2019 
+c. 25/06/2018 
+d. 12/06/2018 
+Clear my choice
+Câu hỏi 80Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiX800 là mộtSelect one:a. Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+b. Là một tiêu chuẩn 
+c. Dịch vụ an toàn 
+d. Là một tiêu chuẩn mã hóa 
+e. Cơ chế an toàn 
+Clear my choice
+
+Câu hỏi 81Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Ngăn chặn thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 82Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng được thông qua ngày tháng năm nào?Select one:a. 01/01/2019 
+b. 12/06/2018 
+c. 25/06/2018 
+d. 01/01/2018 
+Clear my choice
+Câu hỏi 83Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?Select one:Sâu DoS đã lây nhiễm cục bộ 
+Tường lửa chưa hiệu quả 
+Hệ thống mạng bị lỗi 
+Máy đích bị virus 
+Clear my choice
+Câu hỏi 84Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Ngăn chặn thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+Clear my choice
+Câu hỏi 85Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCIH là gì ?Select one:a. Là một chủng virus máy tính 
+b. Là trojan giúp hacker phân tích dữ liệu 
+c. Khóa học An  toàn mạng máy tính 
+d. Tên gọi khác của virus Chernobyl 
+Clear my choice
+Câu hỏi 86Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhần mềm nào trong số đó không phải là phần mềm AntiVirus?Select one:A. Panda 
+B. Avira 
+C. Avast 
+D. Beast 
+Clear my choice
+Câu hỏi 87Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng năm 2018 quy định vềSelect one:a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+d. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+Clear my choice
+Câu hỏi 88Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? aSelect one:a. IPX 
+b. IPSec 
+c. TCP/IP 
+d. SSL 
+Clear my choice
+Câu hỏi 89Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiYếu tố nào sau đây được coi là hữu ích nhất trong việc kiểm soát truy cập khi bị tấn công từ bên ngoài ?Select one:a. Đăng nhập hệ thống ( System logs) 
+b. Kerberos 
+c. Sinh trắc học 
+d. Phần mềm antivirus 
+Clear my choice
+Câu hỏi 90Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:Select one:A. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+B. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+C. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+D. Khó bị các chương trình Anti Virus phát hiện 
+Clear my choice
+Câu hỏi 91Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSSL thực hiện các nhiệm vụ ?Select one:a. Mã hóa dữ liệu web 
+b. Bảo vệ thông tin trao đổi qua Website. 
+c. Xác thực server, Client và mã hóa các kết nối. 
+d. Xác thực Server và Client 
+Clear my choice
+Câu hỏi 92Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn giả mạo 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+Clear my choice
+Câu hỏi 93Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật được gọi là gì ?Select one:a. Extranet 
+b. VLAN 
+c. Tunelling 
+d. Internet 
+Clear my choice
+Câu hỏi 94Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác tập tin nào sau đây có khả năng chứa virus nhất ?Select one:a. bigpic.jpeg 
+b. note.txt 
+c. database.dat 
+d. picture.gif.exe 
+Clear my choice
+Câu hỏi 95Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức thông dụng để chia sẻ một kết nối internet cho nhiều máy khác trong mạng là:Select one:a. NAT (Network Address Translation) 
+b. RAS (Remote Access Service) 
+c. ICS (Internet Connection Sharring) 
+d. ROUTE (Routing Service) 
+Clear my choice
+Câu hỏi 96Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?Select one:a. Xác thực người dùng 
+b. Phần mềm antivirus 
+c. Firewall 
+d. Kerberos 
+Clear my choice
+Câu hỏi 97Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột trong hai cách tiếp cận tấn công mã đối xứngSelect one:a. Birthdy Paradox 
+b. Tấn công tìm bản rõ 
+c. Tấn công tìm khóa 
+d. Brute Force Attack 
+Clear my choice
+Câu hỏi 98Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrojan là một phương thức tấn công kiểu:Select one:A. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+B. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+Clear my choice
+Câu hỏi 99Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiai
+đoạn đầu của hacking là gì?Select one:a. Duy
+trì truy cập 
+b. Trinh sát 
+c. Dò tìm (Scanning) 
+d. Gaining truy
+cập 
+Clear my choice
+Câu hỏi 100Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại tấn công nào làm việc truy cập của user đến các tài nguyên mạng bị từ chối ?Select one:a. Logic Bomb (bomb ngập lụt đường truyền) 
+b. Social engineering (Khai thác giao tiếp) 
+c. DoS 
+d. Sâu 
+Clear my choice
+
+Câu hỏi 101Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?Select one:a. Ổn áp 
+b. Dự phòng nguồn điện của máy phát điện 
+c. UPS 
+d. Thanh nguồn điện 
+Clear my choice
+Câu hỏi 102Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại virus nào có thể lây nhiễm vào các tệp dữ liệu?Select one:a. Macro Virus 
+b. File Virus 
+c. Mailware 
+d. Toolkit 
+Clear my choice
+Câu hỏi 103Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?Select one:Cập nhật bản vá lỗi 
+Cài phần mềm diệt Virus 
+Cài lại HĐH 
+Sao lưu hệ thống 
+Clear my choice
+Câu hỏi 104Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Giả mạo thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 105Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại virus nào có thể lây nhiễm vào các tệp dữ liệu?Select one:A. Toolkit 
+B. Mailware 
+C. File Virus 
+D. Macro Virus 
+Clear my choice
+Câu hỏi 106Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMã cổ điển là mãSelect one:hoán vị 
+có hai khoá là khoá 
+thay thế 
+đối xứng 
+Clear my choice
+Câu hỏi 107Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiAudit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằmSelect one:a. Xác thực đó là ai 
+b. Ai đã làm gì 
+c. Cấp quyền ai có thể làm gì 
+d. Tất cả đều đúng 
+Clear my choice
+Câu hỏi 108Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác tập tin nào sau đây có khả năng chứa virus nhất ?Select one:note.txt 
+bigpic.jpeg 
+database.dat 
+picture.gif.exe 
+Clear my choice
+Câu hỏi 109Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại file nào có thể phát tán Virus ?Select one:A. .xyz 
+B. .exe 
+C. Virus có thể phát tán ở bất cứ file nào 
+D. .com 
+Clear my choice
+Câu hỏi 110Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhá hoại thụ động mang đặc trưng gì?Select one:a. Chặn bắt và khám phá nội dung thông tin 
+b. Chặn bắt và phân tích dòng số liệu 
+c. Chặn bắt và thay đổi thông tin 
+d. Chặn bắt hoặc giám sát thông tin 
+Clear my choice
+Câu hỏi 111Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? aSelect one:SSL 
+TCP/IP 
+IPX 
+IPSec 
+Clear my choice
+Câu hỏi 112Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)Select one:Hiện nay đã có cách phòng chống hiệu quả 
+Chỉ có thể dùng tường lửa 
+Có thể hạn chế trong bằng cách lập trình 
+Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+Clear my choice
+Câu hỏi 113Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?Select one:a. UPS 
+b. Ổn áp 
+c. Dự phòng nguồn điện của máy phát điện 
+d. Thanh nguồn điện 
+Clear my choice
+Câu hỏi 114Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMục nào không là tấn công chủ độngSelect one:A. Tấn công giả mạo (masquerade) 
+B. Tấn công nghe lén 
+C. Tấn công replay 
+D. Tấn công từ chối dịch vụ 
+Clear my choice
+Câu hỏi 115Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiai đoạn đầu của hacking là gì?Select one:a. Gaining truy cập 
+b. Duy trì truy cập 
+c. Dò tìm (Scanning) 
+d. Trinh sát 
+Clear my choice
+Câu hỏi 116Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?Select one:a. I 
+b. C 
+c. A 
+d. D 
+Clear my choice
+Câu hỏi 117Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHãy chọn phát biểu đúng trong các phát biểu sau:Select one:a. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+b. Máy tính không kết nối Internet thì không bị nhiễm virus 
+c. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+d. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+Clear my choice
+Câu hỏi 118Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi“An ninh mạng” là gì?Select one:a. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+d. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+Clear my choice
+Câu hỏi 119Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?Select one:a. A 
+b. C 
+c. I 
+d. D 
+Clear my choice
+Câu hỏi 120Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây ?Select one:a. Xác thực 
+b. Kiểm soát truy cập 
+c. Kiểm định 
+d. Bảo mật dữ liệu 
+Clear my choice
+
+Câu hỏi 101Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?Select one:a. Ổn áp 
+b. Dự phòng nguồn điện của máy phát điện 
+c. UPS 
+d. Thanh nguồn điện 
+Clear my choice
+Câu hỏi 102Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại virus nào có thể lây nhiễm vào các tệp dữ liệu?Select one:a. Macro Virus 
+b. File Virus 
+c. Mailware 
+d. Toolkit 
+Clear my choice
+Câu hỏi 103Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?Select one:Cập nhật bản vá lỗi 
+Cài phần mềm diệt Virus 
+Cài lại HĐH 
+Sao lưu hệ thống 
+Clear my choice
+Câu hỏi 104Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Giả mạo thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 105Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại virus nào có thể lây nhiễm vào các tệp dữ liệu?Select one:A. Toolkit 
+B. Mailware 
+C. File Virus 
+D. Macro Virus 
+Clear my choice
+Câu hỏi 106Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMã cổ điển là mãSelect one:hoán vị 
+có hai khoá là khoá 
+thay thế 
+đối xứng 
+Clear my choice
+Câu hỏi 107Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiAudit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằmSelect one:a. Xác thực đó là ai 
+b. Ai đã làm gì 
+c. Cấp quyền ai có thể làm gì 
+d. Tất cả đều đúng 
+Clear my choice
+Câu hỏi 108Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác tập tin nào sau đây có khả năng chứa virus nhất ?Select one:note.txt 
+bigpic.jpeg 
+database.dat 
+picture.gif.exe 
+Clear my choice
+Câu hỏi 109Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại file nào có thể phát tán Virus ?Select one:A. .xyz 
+B. .exe 
+C. Virus có thể phát tán ở bất cứ file nào 
+D. .com 
+Clear my choice
+Câu hỏi 110Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhá hoại thụ động mang đặc trưng gì?Select one:a. Chặn bắt và khám phá nội dung thông tin 
+b. Chặn bắt và phân tích dòng số liệu 
+c. Chặn bắt và thay đổi thông tin 
+d. Chặn bắt hoặc giám sát thông tin 
+Clear my choice
+Câu hỏi 111Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? aSelect one:SSL 
+TCP/IP 
+IPX 
+IPSec 
+Clear my choice
+Câu hỏi 112Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)Select one:Hiện nay đã có cách phòng chống hiệu quả 
+Chỉ có thể dùng tường lửa 
+Có thể hạn chế trong bằng cách lập trình 
+Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+Clear my choice
+Câu hỏi 113Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?Select one:a. UPS 
+b. Ổn áp 
+c. Dự phòng nguồn điện của máy phát điện 
+d. Thanh nguồn điện 
+Clear my choice
+Câu hỏi 114Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMục nào không là tấn công chủ độngSelect one:A. Tấn công giả mạo (masquerade) 
+B. Tấn công nghe lén 
+C. Tấn công replay 
+D. Tấn công từ chối dịch vụ 
+Clear my choice
+Câu hỏi 115Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiai đoạn đầu của hacking là gì?Select one:a. Gaining truy cập 
+b. Duy trì truy cập 
+c. Dò tìm (Scanning) 
+d. Trinh sát 
+Clear my choice
+Câu hỏi 116Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?Select one:a. I 
+b. C 
+c. A 
+d. D 
+Clear my choice
+Câu hỏi 117Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHãy chọn phát biểu đúng trong các phát biểu sau:Select one:a. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+b. Máy tính không kết nối Internet thì không bị nhiễm virus 
+c. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+d. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+Clear my choice
+Câu hỏi 118Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi“An ninh mạng” là gì?Select one:a. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+d. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+Clear my choice
+Câu hỏi 119Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?Select one:a. A 
+b. C 
+c. I 
+d. D 
+Clear my choice
+Câu hỏi 120Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây ?Select one:a. Xác thực 
+b. Kiểm soát truy cập 
+c. Kiểm định 
+d. Bảo mật dữ liệu 
+Clear my choice
+
+Câu hỏi 121Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:Select one:A. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+B. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+C. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+D. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+Clear my choice
+Câu hỏi 122Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTấn công smurf sử dụng giao thức nào để kiểm soát ?Select one:a. UDP 
+b. ICMP 
+c. IP 
+d. TCP 
+Clear my choice
+Câu hỏi 123Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?Select one:a. Thanh nguồn điện 
+b. Dự phòng nguồn điện của máy phát điện 
+c. Ổn áp 
+d. UPS 
+Clear my choice
+Câu hỏi 124Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChữ ký số được sử dụng cho mục đích gì?Select one:a. Để kiểm tra định danh người gửi 
+b. Cung cấp chứng chỉ 
+c. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+d. Thu hồi một chứng chỉ 
+Clear my choice
+Câu hỏi 125Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiao thức nào được sử dụng rộng rãi hiện nay như là một giao thức truyền tải đối với các kết nối quay số trên Internet ?Select one:a. L2TP 
+b. SLIP 
+c. PPP 
+d. PPTP 
+Clear my choice
+Câu hỏi 126Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiRSA là giải thuậtSelect one:Tổ chức quản lý mã hóa 
+Mã hóa khóa bí mật 
+Mã khóa riêng 
+mã hóa khóa công khai 
+Clear my choice
+Câu hỏi 127Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?Select one:a. Full access 
+b. No access 
+c. Write access 
+d. Read access 
+Clear my choice
+Câu hỏi 128Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 129Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?Select one:Trojan Horse 
+Ipsec 
+DDOS 
+Tràn IP 
+Clear my choice
+Câu hỏi 130Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMục nào không là tấn công chủ độngSelect one:a. Tấn công giả mạo (masquerade) 
+b. Tấn công replay 
+c. Tấn công nghe lén 
+d. Tấn công từ chối dịch vụ 
+Clear my choice
+Câu hỏi 131Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus không thể ẩn mình vào đâu ?Select one:a. Process 
+b. CMOS 
+c. DLL 
+d. BIOS 
+Clear my choice
+Câu hỏi 132Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi“An ninh mạng” là gì?Select one:a. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+c. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+d. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+Clear my choice
+Câu hỏi 133Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình chiếm quyền truy cập đến tài nguyên mạng (đặc biệt như là các tập tin user và nhóm) được gọi là gì ?Select one:a. Liệt kê  
+b. Thiết bị làm nhiễu 
+c. In dấu chân 
+d. Quét 
+Clear my choice
+Câu hỏi 134Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChữ ký số được sử dụng cho mục đích gì?Select one:a. Thu hồi một chứng chỉ 
+b. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+c. Để kiểm tra định danh người gửi 
+d. Cung cấp chứng chỉ 
+Clear my choice
+Câu hỏi 135Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?Select one:a. Trojan Horse 
+b. DDOS 
+c. Ipsec 
+d. Tràn IP 
+Clear my choice
+Câu hỏi 136Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhá hoại thụ động mang đặc trưng gì?Select one:a. Chặn bắt và khám phá nội dung thông tin 
+b. Chặn bắt hoặc giám sát thông tin 
+c. Chặn bắt và phân tích dòng số liệu 
+d. Chặn bắt và thay đổi thông tin 
+Clear my choice
+Câu hỏi 137Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?Select one:a. Phần mềm antivirus 
+b. Firewall 
+c. Xác thực người dùng 
+d. Kerberos 
+Clear my choice
+Câu hỏi 138Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTác hại của virus máy tính ?Select one:a. Tiêu tốn tài nguyên hệ thống. 
+b. Tất cả các phương án 
+c. Gây khó chịu cho người dùng 
+d. Phá hủy hoặc đánh cắp dữ liệu 
+Clear my choice
+Câu hỏi 139Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTác hại của virus máy tính ?Select one:A. Tiêu tốn tài nguyên hệ thống. 
+B. Phá hủy hoặc đánh cắp dữ liệu 
+C. Tất cả các phương án 
+D. Gây khó chịu cho người dùng 
+Clear my choice
+Câu hỏi 140Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?Select one:A. 2 
+B. 3 
+C. 4 
+D. 5 
+Clear my choice
+
+Câu hỏi 1Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác mật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:a.  password@83 
+b.  pass@word83 
+c.  pas@sword83 
+d.  password83@ 
+Clear my choice
+Câu hỏi 2Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?Select one:a. Cài phần mềm diệt Virus 
+b. Sao lưu hệ thống 
+c. Cài lại HĐH 
+d. Cập nhật bản vá lỗi 
+Clear my choice
+Câu hỏi 3Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?Select one:a. Phần mềm antivirus 
+b. Kerberos 
+c. Firewall 
+d. Xác thực người dùng 
+Clear my choice
+Câu hỏi 4Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSSL thực hiện các nhiệm vụ ?Select one:a. Xác thực server, Client và mã hóa các kết nối. 
+b. Xác thực Server và Client 
+c. Mã hóa dữ liệu web 
+d. Bảo vệ thông tin trao đổi qua Website. 
+Clear my choice
+Câu hỏi 5Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTấn công smurf sử dụng giao thức nào để kiểm soát ?Select one:a. IP 
+b. ICMP 
+c. TCP 
+d. UDP 
+Clear my choice
+Câu hỏi 6Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Ngăn chặn thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn giả mạo 
+Clear my choice
+Câu hỏi 7Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?Select one:Máy đích bị virus 
+Sâu DoS đã lây nhiễm cục bộ 
+Hệ thống mạng bị lỗi 
+Tường lửa chưa hiệu quả 
+Clear my choice
+Câu hỏi 8Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại file nào có thể phát tán Virus ?Select one:a. .exe 
+b. .xyz 
+c. .com 
+d. Virus có thể phát tán ở bất cứ file nào 
+Clear my choice
+Câu hỏi 9Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?Select one:a. VPN 
+b. VLAN 
+c. Internet 
+d. Extranet 
+Clear my choice
+Câu hỏi 10Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong sơ đồ kí số thành phần nào đặc trưng xác
+nhận cho một người?Select one:a. Khóa công khai 
+b. bản mã 
+c. chữ ký số 
+d. Khóa bí mật 
+Clear my choice
+Câu hỏi 11Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình chiếm quyền truy cập đến tài nguyên mạng (đặc biệt như là các tập tin user và nhóm) được gọi là gì ?Select one:a. Thiết bị làm nhiễu 
+b. Liệt kê  
+c. Quét 
+d. In dấu chân 
+Clear my choice
+Câu hỏi 12Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTác hại của virus máy tính ?Select one:a. Tiêu tốn tài nguyên hệ thống. 
+b. Phá hủy hoặc đánh cắp dữ liệu 
+c. Gây khó chịu cho người dùng 
+d. Tất cả các phương án 
+Clear my choice
+Câu hỏi 13Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:Select one:A. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+B. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+C. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+D. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+Clear my choice
+Câu hỏi 14Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toànSelect one:a. 4 
+b. 5 
+c. 6 
+d. 3 
+Clear my choice
+Câu hỏi 15Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng năm 2018 quy định vềSelect one:a. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+d. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+Clear my choice
+Câu hỏi 16Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột trong hai cách tiếp cận tấn công mã đối xứngSelect one:Tấn công tìm bản rõ 
+Tấn công tìm khóa 
+Brute Force Attack 
+Birthdy Paradox 
+Clear my choice
+Câu hỏi 17Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChiều dài tối thiểu mặc định của mật khẩu là ?Select one:Tùy trường hợp 
+12 đến 15 ký tự 
+8 ký tự 
+3 đến 5 ký tự 
+Clear my choice
+Câu hỏi 18Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?Select one:Disable tài khoản không dùng đến 
+Ngày hết hạn tài khoản 
+Hạn chế thời gian 
+Giới hạn số lần logon 
+Clear my choice
+Câu hỏi 19Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?Select one:a. độ an toàn 
+b. độ chính xác 
+c. độ sẵn sàng 
+d. độ tin cậy 
+Clear my choice
+Câu hỏi 20Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?Select one:a. Cựu hacker mũ xám 
+b. Cựu hacker mũ đen 
+c. Chuyên gia bảo mật 
+d. Hacker hiểm độc 
+Clear my choice
+
+Câu hỏi 21Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiX800 là mộtSelect one:Dịch vụ an toàn 
+Cơ chế an toàn 
+Là một tiêu chuẩn 
+Là một tiêu chuẩn mã hóa 
+Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+Clear my choice
+Câu hỏi 22Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus có thể lây nhiễm thông qua thiết bị nào?Select one:a. USB 
+b. Tất cả 
+c. CD-Room 
+d. Thẻ nhớ 
+Clear my choice
+Câu hỏi 23Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể ngăn tấn công DoS, một quản trị mạng chặn nguồn IP với tường lửa, nhưng tấn công vẫn tiếp diễn. Điều gì có khả năng xảy ra nhất ?Select one:a. Tường lửa chưa hiệu quả 
+b. Sâu DoS đã lây nhiễm cục bộ 
+c. Máy đích bị virus 
+d. Hệ thống mạng bị lỗi 
+Clear my choice
+Câu hỏi 24Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi được hỏi về các mối đe dọa cho công ty từ phía các hacker. Loại thông tin nào sau đây sẽ giúp ích nhiều nhất ?Select one:a. Xác minh tài sản sở hữu 
+b. Đánh giá rủi ro 
+c. Các điểm yếu 
+d. Nhận dạng mối đe dọa 
+Clear my choice
+Câu hỏi 25Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?Select one:a. Nhiều 
+b. 4 
+c. 2 
+d. 7 
+Clear my choice
+Câu hỏi 26Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSniffing là một phương thức tấn công kiểu:Select one:A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+Clear my choice
+Câu hỏi 27Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiBộ lọc gói thực hiện chức năng nào ?Select one:a. Ngăn chặn các gói trái phép đi vào từ mạng bên ngoài 
+b. Loại trừ sự xung đột trong mạng 
+c. Cho phép tất cả các gói đi vào mạng 
+d. Cho phép tất cả các gói rời mạng 
+Clear my choice
+Câu hỏi 28Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu nhóm chức năng?Select one:a. 4 
+b. 7 
+c. 2 
+d. Nhiều 
+Clear my choice
+Câu hỏi 29Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMục nào không là tấn công chủ độngSelect one:A. Tấn công replay 
+B. Tấn công giả mạo (masquerade) 
+C. Tấn công từ chối dịch vụ 
+D. Tấn công nghe lén 
+Clear my choice
+Câu hỏi 30Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?Select one:A. 2 
+B. 3 
+C. 4 
+D. 5 
+Clear my choice
+Câu hỏi 31Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?Select one:a. Ipsec 
+b. Trojan Horse 
+c. Tràn IP 
+d. DDOS 
+Clear my choice
+Câu hỏi 32Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrojan là một phương thức tấn công kiểu:Select one:a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+Clear my choice
+Câu hỏi 33Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiAudit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằmSelect one:Tất cả đều đúng 
+Xác thực đó là ai 
+Ai đã làm gì 
+Cấp quyền ai có thể làm gì 
+Clear my choice
+Câu hỏi 34Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn giả mạo 
+Clear my choice
+Câu hỏi 35Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiX800 là mộtSelect one:a. Là một tiêu chuẩn 
+b. Một dịch vụ không đáp ứng yêu cầu không thể từ chối (non-reputation) 
+c. Cơ chế an toàn 
+d. Là một tiêu chuẩn mã hóa 
+e. Dịch vụ an toàn 
+Clear my choice
+Câu hỏi 36Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?Select one:a. No access 
+b. Read access 
+c. Write access 
+d. Full access 
+Clear my choice
+Câu hỏi 37Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiai đoạn đầu của hacking là gì?Select one:a. Duy trì truy cập 
+b. Trinh sát 
+c. Dò tìm (Scanning) 
+d. Gaining truy cập 
+Clear my choice
+Câu hỏi 38Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhá hoại thụ động mang đặc trưng gì?Select one:a. Chặn bắt hoặc giám sát thông tin 
+b. Chặn bắt và khám phá nội dung thông tin 
+c. Chặn bắt và thay đổi thông tin 
+d. Chặn bắt và phân tích dòng số liệu 
+Clear my choice
+Câu hỏi 39Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác tập tin nào sau đây có khả năng chứa virus nhất ?Select one:a. note.txt 
+b. database.dat 
+c. bigpic.jpeg 
+d. picture.gif.exe 
+Clear my choice
+Câu hỏi 40Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại khoá mật mã nào sau đây dễ bị phá nhất ?Select one:a. 256 bit 
+b. EEC 
+c. 40 bit 
+d. RSA 
+Clear my choice
+
+Câu hỏi 41Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại khoá mật mã nào sau đây dễ bị phá nhất ?Select one:40 bit 
+RSA 
+256 bit 
+EEC 
+Clear my choice
+Câu hỏi 42Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?Select one:a. 2 
+b. 4 
+c. Nhiều 
+d. 7 
+Clear my choice
+Câu hỏi 43Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại virus nào có thể lây nhiễm vào các tệp dữ liệu?Select one:a. Macro Virus 
+b. Mailware 
+c. File Virus 
+d. Toolkit 
+Clear my choice
+Câu hỏi 44Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)Select one:a. Hiện nay đã có cách phòng chống hiệu quả 
+b. Có thể hạn chế trong bằng cách lập trình 
+c. Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+d. Chỉ có thể dùng tường lửa 
+Clear my choice
+Câu hỏi 45Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVì sao cần bảo vệ thông tin máy tính?Select one:a. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+b. Tất cả các đáp án 
+c. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+d. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+Clear my choice
+Câu hỏi 46Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác biểu hiện của một hệ thống mất tính toàn vẹn?Select one:a. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+b. Tất cả đáp án đã cho đều đúng 
+c. Thay đổi giao diện trang chủ của một website. 
+d. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+Clear my choice
+Câu hỏi 47Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? aSelect one:SSL 
+IPSec 
+IPX 
+TCP/IP 
+Clear my choice
+Câu hỏi 49Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHãy chọn phát biểu đúng trong các phát biểu sau:Select one:A. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+B. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+C. Máy tính không kết nối Internet thì không bị nhiễm virus 
+D. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+Clear my choice
+Câu hỏi 50Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTính sẵn sàng được dùng để đánh giá phương diện nào của Hệ thống?Select one:a. độ chính xác 
+b. độ sẵn sàng 
+c. độ tin cậy 
+d. độ an toàn 
+Clear my choice
+Câu hỏi 51Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiai
+đoạn đầu của hacking là gì?Select one:a. Trinh sát 
+b. Gaining truy
+cập 
+c. Duy
+trì truy cập 
+d. Dò tìm (Scanning) 
+Clear my choice
+Câu hỏi 52Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhần mềm nào trong số đó không phải là phần mềm AntiVirus?Select one:A. Panda 
+B. Avira 
+C. Beast 
+D. Avast 
+Clear my choice
+Câu hỏi 53Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:Select one:a. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+b. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+c. Khó bị các chương trình Anti Virus phát hiện 
+d. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+Clear my choice
+Câu hỏi 54Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?Select one:a. UPS 
+b. Dự phòng nguồn điện của máy phát điện 
+c. Ổn áp 
+d. Thanh nguồn điện 
+Clear my choice
+Câu hỏi 55Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChiều dài tối thiểu mặc định của mật khẩu là ?Select one:a. 12 đến 15 ký tự 
+b. 8 ký tự 
+c. Tùy trường hợp 
+d. 3 đến 5 ký tự 
+Clear my choice
+Câu hỏi 56Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể
+tìm bản rõ người thám mã sử dụngSelect one:a. Sử dụng khóa 
+b. Kết hợp nhiều cách thức khác nhau 
+c. Sử dụng phần mềm, công cụ hack 
+d. Sử dụng phương pháp bài toán ngược 
+Clear my choice
+Câu hỏi 57Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể đảm bảo an toàn thông tin, bằng cáchSelect one:a. kết hợp các biện pháp. 
+b. sử dụng tường lửa 
+c. phân quyền truy cập thông tin 
+d. sử dụng phương pháp mã hóa 
+Clear my choice
+Câu hỏi 58Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác biểu hiện của một hệ thống mất tính toàn vẹn?Select one:a. Tất cả đáp án đã cho đều đúng 
+b. Chặn đứng và thay đổi gói tin được gửi qua mạng. 
+c. Do có sự cố trên đường truyền mà tín hiệu bị nhiễu hoặc suy hao dẫn đến thông tin bị sai lệch. 
+d. Thay đổi giao diện trang chủ của một website. 
+Clear my choice
+Câu hỏi 59Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCách nào sau đây là tốt nhất để chống lại điểm yếu bảo mật trong HĐH ?Select one:Cài lại HĐH 
+Cập nhật bản vá lỗi 
+Cài phần mềm diệt Virus 
+Sao lưu hệ thống 
+Clear my choice
+Câu hỏi 60Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi“An ninh mạng” là gì?Select one:a. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+b. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+c. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+d. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+Clear my choice
+
+Câu hỏi 61Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhát biểu nào sau đây là đúng với Bitlocker Drive Encryption?Select one:a. Là phần mềm hóa công khai 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+c. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+Clear my choice
+Câu hỏi 62Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSystem Hacking là một phương thức tấn công kiểu:Select one:a. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+b. Điều khiển máy tính nạn nhân từ xa 
+c. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+d. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+Clear my choice
+Câu hỏi 63Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:reception 
+25101998 
+!$aLtNb83 
+password83 
+Clear my choice
+Câu hỏi 64Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?Select one:a. I 
+b. C 
+c. A 
+d. D 
+Clear my choice
+Câu hỏi 65Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?Select one:a. 25/06/2018 
+b. 12/06/2018 
+c. 01/01/2018 
+d. 01/01/2019 
+Clear my choice
+Câu hỏi 66Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật mã là phương thức dùng để đảm bảo tính chất nào của mô hình CIA ?Select one:a. D 
+b. A 
+c. I 
+d. C 
+Clear my choice
+Câu hỏi 67Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏi“An ninh mạng” là gì?Select one:a. Là sự phòng ngừa, phát hiện, ngăn chặn, xử lý hành vi xâm phạm an ninh mạng. 
+b. Là sự kiểm tra hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+c. Là sự giám sát hoạt động trên không gian mạng không thực hiện tấn công mạng, khủng bố mạng, gián điệp mạng, tội phạm mạng; gây sự cố, tấn công, xâm nhập, chiếm quyền điều khiển, làm sai lệch, gián đoạn, ngưng trệ, tê liệt hoặc phá hoại hệ thống thông tin quan trọng về an ninh quốc gia.. 
+d. Là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+Clear my choice
+Câu hỏi 68Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus không thể ẩn mình vào đâu ?Select one:a. DLL 
+b. CMOS 
+c. Process 
+d. BIOS 
+Clear my choice
+Câu hỏi 69Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhòng chống tấn công Tấn công từ chối dịch vụ phân tán (DDOS)Select one:Cách hiệu quả duy nhất là lưu trữ và phục hồi (backup và restore) 
+Hiện nay đã có cách phòng chống hiệu quả 
+Chỉ có thể dùng tường lửa 
+Có thể hạn chế trong bằng cách lập trình 
+Clear my choice
+Câu hỏi 70Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn giả mạo 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+Clear my choice
+Câu hỏi 71Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:a. reception 
+b. !$aLtNb83 
+c. 25101998 
+d. password83 
+Clear my choice
+Câu hỏi 72Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+Clear my choice
+Câu hỏi 73Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?Select one:a. SSL 
+b. SSH 
+c. IPSec 
+d. VPN 
+Clear my choice
+Câu hỏi 74Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác
+phát biểu sau đây, phát biểu nào tốt nhất mô tả một hacker mũ trắng?Select one:a. Cựu hacker mũ xám 
+b. Chuyên gia bảo mật 
+c. Hacker hiểm độc 
+d. Cựu hacker mũ đen 
+Clear my choice
+Câu hỏi 75Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chặn bắt thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn giả mạo 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 76Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQui trình xác định topology của mạng được gọi là gì ?Select one:a. Thiết bị làm nhiễu 
+b. Liệt kê 
+c. In dấu chân 
+d. Quét mạng 
+Clear my choice
+Câu hỏi 77Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHãy chọn phát biểu đúng trong các phát biểu sau:Select one:a. Phần mềm diệt virus tốt là có thể tiêu diệt tất cả các virus. 
+b. Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định. 
+c. Một phần mềm quét virus chỉ diệt được duy nhất một loại virus 
+d. Máy tính không kết nối Internet thì không bị nhiễm virus 
+Clear my choice
+Câu hỏi 78Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác yếu tố ảnh hưởng đến sự an toàn thông tin máy tính được chia thành mấy nhóm chính?Select one:a. 5 
+b. 4 
+c. 2 
+d. 3 
+Clear my choice
+Câu hỏi 79Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMục nào không là tấn công chủ độngSelect one:a. Tấn công giả mạo (masquerade) 
+b. Tấn công replay 
+c. Tấn công nghe lén 
+d. Tấn công từ chối dịch vụ 
+Clear my choice
+Câu hỏi 80Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMã cổ điển là mãSelect one:thay thế 
+hoán vị 
+đối xứng 
+có hai khoá là khoá 
+Clear my choice
+
+Câu hỏi 81Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSystem Hacking là một phương thức tấn công kiểu:Select one:A. Điều khiển máy tính nạn nhân từ xa 
+B. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+Clear my choice
+Câu hỏi 82Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+b. Bộ Công an 
+c. Ban Cơ yếu Chính phủ 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+Clear my choice
+Câu hỏi 83Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiGiao thức nào được sử dụng rộng rãi hiện nay như là một giao thức truyền tải đối với các kết nối quay số trên Internet ?Select one:a. PPTP 
+b. SLIP 
+c. PPP 
+d. L2TP 
+Clear my choice
+Câu hỏi 84Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác mật khẩu nào sau đây là khó phá nhất đối với một hacker ?Select one:a. password@83 
+b. pass@word83 
+c. password83@ 
+d. pas@sword83 
+Clear my choice
+Câu hỏi 85Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?Select one:a. Kerberos 
+b. Firewall 
+c. Phần mềm antivirus 
+d. Xác thực người dùng 
+Clear my choice
+Câu hỏi 86Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiSniffing là một phương thức tấn công kiểu:Select one:a. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+b. Điều khiển máy tính nạn nhân từ xa 
+c. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+d. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+Clear my choice
+Câu hỏi 87Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng được công bố ngày tháng năm nào?Select one:a. 25/06/2018 
+b. 12/06/2018 
+c. 01/01/2019 
+d. 01/01/2018 
+Clear my choice
+Câu hỏi 88Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChứng nhận chứa (certificate) chứa thông tin?Select one:Tất cả đều đúng 
+Thông tin thuật toán tạo mã khoá 
+Chữ ký 
+Thuật toán tạo chữ ký 
+Clear my choice
+Câu hỏi 89Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào cho phép ta kết nối đến một mạng LAN của công ty qua Internet thông qua một kênh được mã hóa an toàn ?Select one:VPN 
+IPSec 
+SSL 
+SSH 
+Clear my choice
+Câu hỏi 91Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhần mềm nào trong số đó không phải là phần mềm AntiVirus?Select one:a. Beast 
+b. Avira 
+c. Avast 
+d. Panda 
+Clear my choice
+Câu hỏi 92Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Giả mạo thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+Clear my choice
+Câu hỏi 93Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Chèn thông tin giả là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+Clear my choice
+Câu hỏi 94Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiAudit (kiểm tra, kiểm toán) trong mô hình AAA (an toàn CSDL) nhằmSelect one:a. Cấp quyền ai có thể làm gì 
+b. Xác thực đó là ai 
+c. Tất cả đều đúng 
+d. Ai đã làm gì 
+Clear my choice
+Câu hỏi 95Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChữ ký số được sử dụng cho mục đích gì?Select one:a. Thu hồi một chứng chỉ 
+b. Để kiểm tra định danh người gửi 
+c. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+d. Cung cấp chứng chỉ 
+Clear my choice
+Câu hỏi 96Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhát biểu nào sau đây là đúng với Bitlocker Drive Encryption?Select one:a. Là chương trình của Hệ điều hành Windows cho phép mã hóa bit dữ liệu trên máy tính 
+b. Là chương trình của Hệ điều hành Windows cho phép mã hóa dữ liệu trên máy tính 
+c.  
+d. Là phần mềm hóa công khai 
+Clear my choice
+Câu hỏi 97Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCIH là gì ?Select one:A. Khóa học An  toàn mạng máy tính 
+B. Là một chủng virus máy tính 
+C. Tên gọi khác của virus Chernobyl 
+D. Là trojan giúp hacker phân tích dữ liệu 
+Clear my choice
+Câu hỏi 98Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các loại  tấn công RSA được lưu ý thì không có dạngSelect one:Tấn công toán học 
+Tấn công tính toán thời gian 
+Tấn công brute force 
+Tấn công bản rõ 
+Clear my choice
+Câu hỏi 99Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác tập tin nào sau đây có khả năng chứa virus nhất ?Select one:picture.gif.exe 
+database.dat 
+bigpic.jpeg 
+note.txt 
+Clear my choice
+Câu hỏi 100Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?Select one:a. Nhiều 
+b. 4 
+c. 7 
+d. 2 
+Clear my choice
+
+Câu hỏi 101Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?Select one:a. Dự phòng nguồn điện của máy phát điện 
+b. UPS 
+c. Thanh nguồn điện 
+d. Ổn áp 
+Clear my choice
+Câu hỏi 102Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChứng nhận chứa (certificate) chứa thông tin?Select one:a. Thông tin thuật toán tạo mã khoá 
+b. Thuật toán tạo chữ ký 
+c. Chữ ký 
+d. Tất cả đều đúng 
+Clear my choice
+Câu hỏi 103Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại file nào có thể phát tán Virus ?Select one:A. .xyz 
+B. .exe 
+C. Virus có thể phát tán ở bất cứ file nào 
+D. .com 
+Clear my choice
+Câu hỏi 104Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhá hoại thụ động mang đặc trưng gì?Select one:a. Chặn bắt và thay đổi thông tin 
+b. Chặn bắt và khám phá nội dung thông tin 
+c. Chặn bắt hoặc giám sát thông tin 
+d. Chặn bắt và phân tích dòng số liệu 
+Clear my choice
+Câu hỏi 105Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+b. Bộ Công an 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+d. Ban Cơ yếu Chính phủ 
+Clear my choice
+Câu hỏi 106Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật để tăng An toàn thông tin khi trao đổi thông tin qua môi trường internet được đề cập trong bài là gì ?Select one:a. VPN 
+b. VLAN 
+c. Internet 
+d. Extranet 
+Clear my choice
+Câu hỏi 107Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiHệ thống nào chủ động thực hiện việc giám sát mạng, phân tích và có thể thực hiện các bước phòng ngừa , bảo vệ mạng ?Select one:a. Switch 
+b. Sniffer 
+c. Router 
+d. IDS 
+Clear my choice
+Câu hỏi 108Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng được thông qua ngày tháng năm nào?Select one:a. 01/01/2019 
+b. 25/06/2018 
+c. 12/06/2018 
+d. 01/01/2018 
+Clear my choice
+Câu hỏi 109Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+b. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+c. Ban Cơ yếu Chính phủ 
+d. Bộ Công an 
+Clear my choice
+Câu hỏi 110Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Ngăn chặn thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+d. Thông tin được gửi từ nguồn giả mạo 
+Clear my choice
+Câu hỏi 111Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng được thông qua ngày tháng năm nào?Select one:a. 12/06/2018 
+b. 01/01/2019 
+c. 25/06/2018 
+d. 01/01/2018 
+Clear my choice
+Câu hỏi 112Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiNên cài mức truy cập mặc định là mức nào sau đây để tăng tính an toàn cho dữ liệu?Select one:Full access 
+Write access 
+Read access 
+No access 
+Clear my choice
+Câu hỏi 113Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật đánh cắp tài khoản bằng Keylog thường được các newbie Hacker ưa thích sử dụng là do:Select one:A. Keylog rất mạnh trong việc nhận dạng user/password trong các gói tin gửi ra ngoài 
+B. Keylog rất mạnh trong việc dò tìm mật khẩu đã bị mã hóa (encrypt) hoặc bị băm (Hash) 
+C. Do đa phần người dùng không quan tâm đến vấn đề bảo mật và Anti Virus 
+D. Khó bị các chương trình Anti Virus phát hiện 
+Clear my choice
+Câu hỏi 114Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus có thể lây nhiễm thông qua thiết bị nào?Select one:A. Thẻ nhớ 
+B. USB 
+C. Tất cả 
+D. CD-Room 
+Clear my choice
+Câu hỏi 115Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChính sách tài khoản nào nên được thiết lập để ngăn chặn các cuộc tấn công ác ý vào tài khoản của user?Select one:a. Disable tài khoản không dùng đến 
+b. Hạn chế thời gian 
+c. Giới hạn số lần logon 
+d. Ngày hết hạn tài khoản 
+Clear my choice
+Câu hỏi 116Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiBạn là người quản trị mạng tại trung tâm CNTT & DL . Trung tâm CNTT&DL gồm một văn phòng chính và một văn phòng chi nhánh. Mạng của trung tâm gồm có 2 máy tính ISA Server 2006 tên là CNTT_ISA1 và CNTT_ISA2.  CNTT_ISA1 đặt tại văn phòng chính, CNTT_ISA2 đặt tại văn phòng chi nhánh.
+Hai văn phòng này kết nối lại với nhau bằng VPN site-to-site thông qua IPSec. Các user ở văn phòng chi nhánh thì báo cáo rằng họ có thể truy cập dữ liệu share ở văn phòng chính nhưng không thể truy cập Microsoft Outlook Web Access Web site. Bạn nên làm gì để cho các user ở văn phòng chi nhánh có thể truy cập được Microsoft Outlook Web Access Web site?Select one:a. Tạo một access rule để cho phép TCP port 80 outbound. 
+b. Thay đổi cấu hình IPSec trên CNTT_ISA1 và CNTT_ISA2 để sử dụng thuật toán MD5. 
+c. Sử dụng NAT giữa hai văn phòng. 
+d. Add một đia chỉ IP cho card mạng external trên CNTT_ISA2. 
+Clear my choice
+Câu hỏi 117Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiĐể thực hiện cuộc tấn công Trojan-Backdoor. Hacker sẽ thực hiện:Select one:a. Trojan Server được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Client 
+b. Hacker dùng Trojan Client, tấn công vào máy nạn nhân qua các port nhận được từ kỹ thuật Scanning. 
+c. Trojan Client được cài trên máy nạn nhân. Hacker điều khiển bằng Trojan Server 
+d. Hacker dùng Trojan Server, tấn công vào máy nạn nhân qua các port nhận đượcc từ kỹ thuật Scanning. 
+Clear my choice
+Câu hỏi 118Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức thông dụng để chia sẻ một kết nối internet cho nhiều máy khác trong mạng là:Select one:a. ICS (Internet Connection Sharring) 
+b. NAT (Network Address Translation) 
+c. ROUTE (Routing Service) 
+d. RAS (Remote Access Service) 
+Clear my choice
+Câu hỏi 119Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn do yếu tố con người?Select one:a. 7 
+b. Nhiều 
+c. 2 
+d. 4 
+Clear my choice
+Câu hỏi 120Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh truy cập máy tính không mong muốn?Select one:a. Firewall 
+b. Phần mềm antivirus 
+c. Xác thực người dùng 
+d. Kerberos 
+Clear my choice
+
+Câu hỏi 121Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiÁp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:Select one:a. Kerberos 
+b. Internet Key Exchange (IKE) 
+c. Encapsulating Security Payload (ESP) 
+d. Certified Authentication (CA) 
+Clear my choice
+Câu hỏi 122Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiChữ ký số được sử dụng cho mục đích gì?Select one:a. Thu hồi một chứng chỉ 
+b. Cung cấp chứng chỉ 
+c. Để bảo mật tài liệu sao cho người ngoài không đọc được 
+d. Để kiểm tra định danh người gửi 
+Clear my choice
+Câu hỏi 123Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng do cơ quan nào chủ trì soạn thảo?Select one:a. Bộ Công an 
+b. Ban Cơ yếu Chính phủ 
+c. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Công an 
+d. Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng 
+Clear my choice
+Câu hỏi 124Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiQuyền truy cập nào cho phép ta lưu giữ một tập tin?Select one:a. Đọc 
+b. Ghi 
+c. Sao chép 
+d. Backup 
+Clear my choice
+Câu hỏi 125Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKhi kết thúc công việc trên máy tính xách tay và ra ngoài khoảng 1 tiếng vào buổi trưa ta nên làm gì trước khi ra ngoài ?Select one:a. Nói với đồng nghiệp để mắt đến máy tính xách tay 
+b. Log out khỏi máy tính xách tay 
+c. Chắc chắn rằng máy tính xách tay của ta được bảo vệ trên bàn làm việc hay được cất, khóa an toàn 
+d. Shut down và đóng máy lại 
+Clear my choice
+Câu hỏi 126Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiRSA là giải thuậtSelect one:Mã hóa khóa bí mật 
+Tổ chức quản lý mã hóa 
+mã hóa khóa công khai 
+Mã khóa riêng 
+Clear my choice
+Câu hỏi 127Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng năm 2018 quy định vềSelect one:a. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự an toàn xã hội. 
+b. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+c. Hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng. 
+d. Trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 
+Clear my choice
+Câu hỏi 128Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLuật An ninh mạng có hiệu lực bắt đầu từ ngày tháng năm nào?Select one:a. 01/01/2018 
+b. 01/01/2019 
+c. 25/06/2018 
+d. 12/06/2018 
+Clear my choice
+Câu hỏi 129Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại virus nào có thể lây nhiễm vào các tệp dữ liệu?Select one:A. Toolkit 
+B. Macro Virus 
+C. Mailware 
+D. File Virus 
+Clear my choice
+Câu hỏi 130Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương thức nào là hữu ích trong việc tránh phần mềm độc hại cho máy tính cá nhân?Select one:a. Kerberos 
+b. Firewall 
+c. Xác thực người dùng 
+d. Phần mềm antivirus 
+Clear my choice
+Câu hỏi 131Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVì sao cần bảo vệ thông tin máy tính?Select one:A. Sự mất an toàn thông tin ở quy mô lớn hoặc ở tầm quốc gia có thể đưa đến những hậu quả vô cùng to lớn. 
+B. Vì đối với người sử dụng,  thông tin là tài sản quan trọng trong máy tính. 
+C. Tất cả các đáp án 
+D. Luôn có nguy cơ gây mất an toàn thông tin khi sử dụng máy tính. 
+Clear my choice
+Câu hỏi 132Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiKỹ thuật cho phép tạo kết nối ảo giữa hai mạng sử dụng một giao thức bảo mật được gọi là gì ?Select one:a. Extranet 
+b. Internet 
+c. Tunelling 
+d. VLAN 
+Clear my choice
+Câu hỏi 133Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiVirus không thể ẩn mình vào đâu ?Select one:A. DLL 
+B. CMOS 
+C. BIOS 
+D. Process 
+Clear my choice
+Câu hỏi 134Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Giả mạo thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+Clear my choice
+Câu hỏi 135Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCIH là gì ?Select one:a. Khóa học An  toàn mạng máy tính 
+b. Tên gọi khác của virus Chernobyl 
+c. Là trojan giúp hacker phân tích dữ liệu 
+d. Là một chủng virus máy tính 
+Clear my choice
+Câu hỏi 136Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột trong hai cách tiếp cận tấn công mã đối xứngSelect one:a. Tấn công tìm bản rõ 
+b. Birthdy Paradox 
+c. Brute Force Attack 
+d. Tấn công tìm khóa 
+Clear my choice
+Câu hỏi 137Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiPhương pháp quét võng mạc thích hợp nhất đối với các dịch vụ nào sau đây ?Select one:a. Kiểm soát truy cập 
+b. Kiểm định 
+c. Xác thực 
+d. Bảo mật dữ liệu 
+Clear my choice
+Câu hỏi 138Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiYếu tố nào sau đây được coi là hữu ích nhất trong việc kiểm soát truy cập khi bị tấn công từ bên ngoài ?Select one:a. Đăng nhập hệ thống ( System logs) 
+b. Kerberos 
+c. Phần mềm antivirus 
+d. Sinh trắc học 
+Clear my choice
+Câu hỏi 139Câu trả lời đã được lưuĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác kỹ thuật an toàn có bao nhiêu mục tiêu cơ bản để được đánh giá là an toànSelect one:a. 5 
+b. 6 
+c. 4 
+d. 3 
+Clear my choice
+
+Câu hỏi 141Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMột IP flood theo các host phát tán trực tiếp đến một Web server là một ví dụ của loại tấn công gì ?Select one:Trojan Horse 
+DDOS 
+Tràn IP 
+Ipsec 
+Clear my choice
+Câu hỏi 142Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiÁp dụng IPSec vào hệ thống VPN, phương thức chứng thực được hỗ trợ sẵn trong dịch vụ RRAS của Windows là:Select one:a. Encapsulating Security Payload (ESP) 
+b. Kerberos 
+c. Certified Authentication (CA) 
+d. Internet Key Exchange (IKE) 
+Clear my choice
+Câu hỏi 143Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện bị sụt áp do quá tải bất thường, thiết bị nào sau đây là hữu dụng nhất trong việc duy trì các mức nguồn điện thích hợp ?Select one:a. UPS 
+b. Ổn áp 
+c. Thanh nguồn điện 
+d. Dự phòng nguồn điện của máy phát điện 
+Clear my choice
+Câu hỏi 144Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiMô hình OSI chia ATTT thành bao nhiêu mức an toàn hệ thống?Select one:a. 4 
+b. 7 
+c. 2 
+d. Nhiều 
+Clear my choice
+Câu hỏi 145Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong khoảng thời gian nguồn điện cung cấp cho hệ thống máy tính chập chờn không ổn định, có thể bị ngắt bất cứ lúc nào, thiết bị nào có thể hỗ trợ cấp nguồn giúp bảo vệ An toàn thông tin ?Select one:a. Dự phòng nguồn điện của máy phát điện 
+b. Thanh nguồn điện 
+c. Ổn áp 
+d. UPS 
+Clear my choice
+Câu hỏi 146Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiCác giao thức nào sau đây làm việc trên lớp IP để bảo vệ thông tin IP trên mạng ? aSelect one:a. IPSec 
+b. IPX 
+c. SSL 
+d. TCP/IP 
+Clear my choice
+Câu hỏi 147Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTác hại của virus máy tính ?Select one:A. Tiêu tốn tài nguyên hệ thống. 
+B. Phá hủy hoặc đánh cắp dữ liệu 
+C. Tất cả các phương án 
+D. Gây khó chịu cho người dùng 
+Clear my choice
+Câu hỏi 148Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiLoại tấn công nào làm việc truy cập của user đến các tài nguyên mạng bị từ chối ?Select one:a. Sâu 
+b. Logic Bomb (bomb ngập lụt đường truyền) 
+c. Social engineering (Khai thác giao tiếp) 
+d. DoS 
+Clear my choice
+Câu hỏi 149Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrong các nguy cơ mất an toàn thông tin thì Sửa đổi thông tin là dạngSelect one:a. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với đầy đủ thông tin nhưng thông tin đã bị lộ 
+b. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi và không đến được đích 
+c. Thông tin được gửi từ nguồn giả mạo 
+d. Thông tin được gửi từ nguồn bị chặn tại một điểm trên đường đi vẫn đến được đích với thông tin bị sai lệch 
+Clear my choice
+Câu hỏi 150Chưa trả lờiĐạt điểm 1,0
+Đặt cờĐoạn văn câu hỏiTrojan là một phương thức tấn công kiểu:Select one:A. Can thiệp trực tiếp vào máy nạn nhân để lấy các thông tin quan trọng 
+B. Đánh cắp dữ liệu của nạn nhân truyền trên mạng 
+C. Tấn công làm tê liệt hệ thống mạng của nạn nhân 
+D. Điều khiển máy tính nạn nhân từ xa thông qua phần mềm cài sẵn trong máy nạn nhân 
+Clear my choice
+
